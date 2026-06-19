@@ -1,5 +1,6 @@
 import { EsimLandingClient } from '@/components/esim/landing/landing-page'
 import type { Metadata } from 'next'
+import { Suspense } from 'react'
 
 export const metadata: Metadata = {
   title: 'eSIM data plans | Golafly Travel',
@@ -8,5 +9,9 @@ export const metadata: Metadata = {
 }
 
 export default function EsimPage() {
-  return <EsimLandingClient />
+  return (
+    <Suspense>
+      <EsimLandingClient />
+    </Suspense>
+  )
 }
