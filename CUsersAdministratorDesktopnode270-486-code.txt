@@ -1,0 +1,1420 @@
+import { imgFrame, imgFrame1, imgFrame2, imgFrame3, imgFrame4, imgFrame5, imgFrame6, imgFrame7, imgFrame8, imgFrame9, imgFrame10, imgFrame11, imgFrame12, imgFrame13, imgFrame14, imgFrame15, imgFrame16, imgFrame17, imgFrame18, imgFrame19, imgFrame20, imgFrame21, imgFrame22, imgFrame23, imgFrame24, imgFrame25, imgFrame26 } from "./svg-us2e4";
+const imgImgTvhelpHeroImg = "C:\Users\Administrator\Desktop\travels\public\figma-assets/88b1efd228fcbe1a25653ab281e19304e04507b1.png";
+const imgImgTvhelpArticleImg = "C:\Users\Administrator\Desktop\travels\public\figma-assets/3ad594c6da88e4b29912e6978ea132adb8c504aa.png";
+const imgImgTvhelpArticleImg1 = "C:\Users\Administrator\Desktop\travels\public\figma-assets/48b4a7fa8ce0eccc41a651c47803b755945169fb.png";
+const imgImgTvhelpArticleImg2 = "C:\Users\Administrator\Desktop\travels\public\figma-assets/c9a93a023c03bc7b608f0649f7261cc47b2cf203.png";
+const imgImgTvhelpArticleImg3 = "C:\Users\Administrator\Desktop\travels\public\figma-assets/9182e18be3a2babc74e507e069a43161a1bd40b8.png";
+
+export default function HelpGolaflyTravel() {
+  return (
+    <div className="bg-black relative size-full" data-node-id="270:486" data-name="Help | GOLAFLY Travel">
+      <div className="absolute h-[2183.625px] left-0 right-0 top-[64px]" data-node-id="270:488" data-name="DIV.tvpage-wrap">
+        <div className="absolute bg-[#050606] h-[619.875px] left-0 overflow-clip right-0 top-0" data-node-id="270:489" data-name="DIV.tvhelp-hero">
+          <div className="absolute h-[619px] left-0 top-0 w-[1520px]" data-node-id="270:490" style={{ backgroundImage: "url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 1520 619' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='1'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(107.48 0 0 43.77 760 309.5)'><stop stop-color='rgba(183,255,0,0.1)' offset='0'/><stop stop-color='rgba(183,255,0,0)' offset='0.65'/></radialGradient></defs></svg>\")" }} data-name="DIV.tvhelp-hero::before" />
+          <div className="-translate-x-1/2 absolute h-[511.075px] left-[calc(50%-0.4px)] top-[60px] w-[1280px]" data-node-id="270:491" data-name="DIV.tr-container">
+            <div className="-translate-x-1/2 absolute h-[367.075px] left-[calc(50%-230px)] top-[96px] w-[700px]" data-node-id="270:492" data-name="DIV.tvhelp-hero__left">
+              <div className="-translate-x-1/2 absolute content-stretch flex gap-[8px] h-[14.4px] items-center left-[calc(50%+0.03px)] top-[5px] w-[118.063px]" data-node-id="270:493" data-name="DIV.tr-eyebrow">
+                <div className="bg-[#b7ff00] opacity-82 relative rounded-[2.73px] shadow-[0px_0px_8px_0px_#b7ff00] shrink-0 size-[5.462px]" data-node-id="270:494" data-name="SPAN.dot" />
+                <div className="[word-break:break-word] flex flex-col font-['JetBrains_Mono:Medium'] font-medium justify-center leading-[0] relative shrink-0 text-[#b7ff00] text-[11px] text-center whitespace-nowrap" data-node-id="270:495">
+                  <p className="leading-[14.4px]">Help Center</p>
+                </div>
+              </div>
+              <div className="[word-break:break-word] absolute font-['Space_Grotesk:Bold'] font-bold h-[122.875px] leading-[0] left-0 right-0 text-[64px] text-center top-[35px] whitespace-nowrap" data-node-id="270:496" data-name="H1.tvhelp-hero__title">
+                <div className="-translate-x-1/2 absolute h-[143.038px] left-[calc(50%+95.83px)] text-[#b7ff00] text-shadow-[0px_0px_14px_rgba(183,255,0,0.55),0px_0px_32px_rgba(183,255,0,0.25)] top-[-10px] w-[347.663px]" data-node-id="270:497" data-name="SPAN.tr-neon">
+                  <div className="-translate-x-1/2 -translate-y-1/2 absolute flex flex-col justify-center left-[274.5px] top-[40.5px]" data-node-id="270:498">
+                    <p className="leading-[61px]">help</p>
+                  </div>
+                  <div className="-translate-x-1/2 -translate-y-1/2 absolute flex flex-col justify-center left-[348px] top-[40.5px]" data-node-id="270:499">
+                    <p className="leading-[61px]">​</p>
+                  </div>
+                  <div className="-translate-x-1/2 -translate-y-1/2 absolute flex flex-col justify-center left-[78px] top-[101.5px]" data-node-id="270:500">
+                    <p className="leading-[61px]">you?</p>
+                  </div>
+                </div>
+                <div className="-translate-x-1/2 -translate-y-1/2 absolute flex flex-col justify-center left-[276.5px] text-[#f5f7f3] top-[30.5px]" data-node-id="270:501">
+                  <p className="leading-[61px]">How can we</p>
+                </div>
+              </div>
+              <div className="-translate-x-1/2 [word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[51.2px] leading-[0] left-[calc(50%-127.94px)] not-italic text-[#a6b0a3] text-[16px] text-center top-[174px] w-[444.125px] whitespace-nowrap" data-node-id="270:502" data-name="P.tvhelp-hero__sub">
+                <div className="-translate-x-1/2 -translate-y-1/2 absolute flex flex-col justify-center left-[222.5px] top-[12px]" data-node-id="270:503">
+                  <p className="leading-[19.2px]">Find answers, get support and manage your bookings</p>
+                </div>
+                <div className="-translate-x-1/2 -translate-y-1/2 absolute flex flex-col justify-center left-[426px] top-[12px]" data-node-id="270:504">
+                  <p className="leading-[19.2px]">​</p>
+                </div>
+                <div className="-translate-x-1/2 -translate-y-1/2 absolute flex flex-col justify-center left-[222px] top-[38px]" data-node-id="270:505">
+                  <p className="leading-[19.2px]">across flights, stays and eSIM.</p>
+                </div>
+              </div>
+              <div className="-translate-x-1/2 absolute bg-[#121513] content-stretch drop-shadow-[0px_8px_12px_rgba(0,0,0,0.55)] flex gap-[12px] h-[46.4px] items-center left-1/2 px-[18px] py-[14px] rounded-[999px] top-[253px] w-[520px]" data-node-id="270:506" data-name="DIV.tvhelp-search">
+                <div className="relative shrink-0 size-[16px]" data-node-id="270:507" data-name="SVG">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                    <div className="absolute left-0 size-[16px] top-0" data-node-id="270:508" data-name="Frame">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame} />
+                    </div>
+                  </div>
+                </div>
+                <div className="h-[16.8px] relative shrink-0 w-[454.4px]" data-node-id="270:511" data-name="INPUT">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-[-317px] not-italic text-[#f5f7f3] text-[14px] top-[-488px] whitespace-nowrap" data-node-id="270:512">
+                      <p className="leading-[0px]">Search flights, stays, eSIM, bookings…</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="absolute content-center flex flex-wrap gap-[6px] h-[27.2px] items-center justify-center left-0 right-0 top-[316px]" data-node-id="270:513" data-name="DIV.tvhelp-chips">
+                <div className="h-[14.4px] relative shrink-0 w-[130.9px]" data-node-id="270:514" data-name="SPAN">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                    <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[65.5px] text-[#a6b0a3] text-[11px] text-center top-[7.5px] whitespace-nowrap" data-node-id="270:515">
+                      <p className="leading-[14.4px]">Popular searches:</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="bg-[#1a1e1b] h-full relative rounded-[999px] shrink-0 w-[120.6px]" data-node-id="270:516" data-name="BUTTON.tr-search__chip">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center px-[14px] py-[6px] relative size-full">
+                    <div className="[word-break:break-word] flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[#d9ded6] text-[10px] text-center whitespace-nowrap" data-node-id="270:517">
+                      <p className="leading-[13.6px]">Change flight</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="bg-[#1a1e1b] h-full relative rounded-[999px] shrink-0 w-[148.6px]" data-node-id="270:518" data-name="BUTTON.tr-search__chip">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center px-[14px] py-[6px] relative size-full">
+                    <div className="[word-break:break-word] flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[#d9ded6] text-[10px] text-center whitespace-nowrap" data-node-id="270:519">
+                      <p className="leading-[13.6px]">eSIM installation</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="bg-[#1a1e1b] h-full relative rounded-[999px] shrink-0 w-[120.6px]" data-node-id="270:520" data-name="BUTTON.tr-search__chip">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center px-[14px] py-[6px] relative size-full">
+                    <div className="[word-break:break-word] flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[#d9ded6] text-[10px] text-center whitespace-nowrap" data-node-id="270:521">
+                      <p className="leading-[13.6px]">Refund status</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="bg-[#1a1e1b] h-full relative rounded-[999px] shrink-0 w-[127.6px]" data-node-id="270:522" data-name="BUTTON.tr-search__chip">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center px-[14px] py-[6px] relative size-full">
+                    <div className="[word-break:break-word] flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[#d9ded6] text-[10px] text-center whitespace-nowrap" data-node-id="270:523">
+                      <p className="leading-[13.6px]">Cancel booking</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="-translate-x-1/2 absolute h-[320px] left-[calc(50%+370px)] overflow-clip rounded-[28px] top-[120px] w-[420px]" data-node-id="270:524" data-name="DIV.tvhelp-hero__right">
+              <div className="absolute inset-0 overflow-clip" data-node-id="270:525" data-name="IMG.tvhelp-hero__img">
+                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImgTvhelpHeroImg} />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="-translate-x-1/2 absolute h-[1466.95px] left-[calc(50%-0.4px)] top-[620px] w-[1280px]" data-node-id="270:527" data-name="DIV.tr-container">
+          <div className="absolute h-[330.475px] left-[60px] right-[60px] top-0" data-node-id="270:528" data-name="DIV">
+            <div className="absolute h-[24.475px] left-0 right-0 top-[64px]" data-node-id="270:529" data-name="H2.tr-h2">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] left-0 text-[#f5f7f3] text-[24px] top-[8px] whitespace-nowrap" data-node-id="270:530">
+                <p className="leading-[24px]">Browse help by category</p>
+              </div>
+            </div>
+            <div className="absolute h-[214px] left-0 right-0 top-[116px]" data-node-id="270:531" data-name="DIV.tvhelp-cats">
+              <div className="absolute bg-[#0b0d0c] bottom-0 content-stretch flex flex-col gap-[8px] items-start left-0 px-[18px] py-[20px] rounded-[18px] top-0 w-[219.2px]" data-node-id="270:532" data-name="BUTTON.tvhelp-cat">
+                <div className="bg-[rgba(183,255,0,0.08)] relative rounded-[12px] shrink-0 size-[44px]" data-node-id="270:533" data-name="SPAN.tvhelp-cat__icon" />
+                <div className="h-[60.4px] relative shrink-0 w-[141.525px]" data-node-id="270:534" data-name="UL.tvhelp-cat__links">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col gap-[5px] items-start relative size-full">
+                    <div className="h-[16.8px] relative shrink-0 w-full" data-node-id="270:535" data-name="LI">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:536">
+                          <p className="leading-[15.2px]">Booking issues</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="h-[16.8px] relative shrink-0 w-full" data-node-id="270:537" data-name="LI">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:538">
+                          <p className="leading-[15.2px]">{`Changes & cancellations`}</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="h-[16.8px] relative shrink-0 w-full" data-node-id="270:539" data-name="LI">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:540">
+                          <p className="leading-[15.2px]">{`Refunds & compensation`}</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute bottom-[17px] right-[17.2px] rounded-[14px] size-[28px]" data-node-id="270:541" data-name="SPAN.tvhelp-cat__arrow">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                    <div className="relative shrink-0 size-[12px]" data-node-id="270:542" data-name="SVG">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                        <div className="absolute left-0 size-[12px] top-0" data-node-id="270:543" data-name="Frame">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame1} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="[word-break:break-word] flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] not-italic relative shrink-0 text-[#f5f7f3] text-[15px] whitespace-nowrap" data-node-id="270:545">
+                  <p className="leading-[18px]">Flights</p>
+                </div>
+              </div>
+              <div className="absolute bg-[#0b0d0c] bottom-0 content-stretch flex flex-col gap-[8px] items-start left-[235px] px-[18px] py-[20px] rounded-[18px] top-0 w-[219.2px]" data-node-id="270:546" data-name="BUTTON.tvhelp-cat">
+                <div className="bg-[rgba(183,255,0,0.08)] relative rounded-[12px] shrink-0 size-[44px]" data-node-id="270:547" data-name="SPAN.tvhelp-cat__icon">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                    <div className="relative shrink-0 size-[22px]" data-node-id="270:548" data-name="SVG">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                        <div className="absolute left-0 size-[22px] top-0" data-node-id="270:549" data-name="Frame">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame2} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="h-[60.4px] relative shrink-0 w-[119.925px]" data-node-id="270:553" data-name="UL.tvhelp-cat__links">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col gap-[5px] items-start relative size-full">
+                    <div className="h-[16.8px] relative shrink-0 w-full" data-node-id="270:554" data-name="LI">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:555">
+                          <p className="leading-[15.2px]">Reservation details</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="h-[16.8px] relative shrink-0 w-full" data-node-id="270:556" data-name="LI">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:557">
+                          <p className="leading-[15.2px]">Check-in / check-out</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="h-[16.8px] relative shrink-0 w-full" data-node-id="270:558" data-name="LI">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:559">
+                          <p className="leading-[15.2px]">Property issues</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute bottom-[17px] right-[17.2px] rounded-[14px] size-[28px]" data-node-id="270:560" data-name="SPAN.tvhelp-cat__arrow">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                    <div className="relative shrink-0 size-[12px]" data-node-id="270:561" data-name="SVG">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                        <div className="absolute left-0 size-[12px] top-0" data-node-id="270:562" data-name="Frame">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame1} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="[word-break:break-word] flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] not-italic relative shrink-0 text-[#f5f7f3] text-[15px] whitespace-nowrap" data-node-id="270:564">
+                  <p className="leading-[18px]">Stays</p>
+                </div>
+              </div>
+              <div className="absolute bg-[#0b0d0c] bottom-0 content-stretch flex flex-col gap-[8px] items-start left-[470px] px-[18px] py-[20px] rounded-[18px] top-0 w-[219.2px]" data-node-id="270:565" data-name="BUTTON.tvhelp-cat">
+                <div className="bg-[rgba(183,255,0,0.08)] relative rounded-[12px] shrink-0 size-[44px]" data-node-id="270:566" data-name="SPAN.tvhelp-cat__icon">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                    <div className="relative shrink-0 size-[22px]" data-node-id="270:567" data-name="SVG">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                        <div className="absolute left-0 size-[22px] top-0" data-node-id="270:568" data-name="Frame">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame3} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="h-[60.4px] relative shrink-0 w-[105.513px]" data-node-id="270:571" data-name="UL.tvhelp-cat__links">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col gap-[5px] items-start relative size-full">
+                    <div className="h-[16.8px] relative shrink-0 w-full" data-node-id="270:572" data-name="LI">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:573">
+                          <p className="leading-[15.2px]">Installation guide</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="h-[16.8px] relative shrink-0 w-full" data-node-id="270:574" data-name="LI">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:575">
+                          <p className="leading-[15.2px]">{`Activation & usage`}</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="h-[16.8px] relative shrink-0 w-full" data-node-id="270:576" data-name="LI">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:577">
+                          <p className="leading-[15.2px]">Troubleshooting</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute bottom-[17px] right-[17.2px] rounded-[14px] size-[28px]" data-node-id="270:578" data-name="SPAN.tvhelp-cat__arrow">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                    <div className="relative shrink-0 size-[12px]" data-node-id="270:579" data-name="SVG">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                        <div className="absolute left-0 size-[12px] top-0" data-node-id="270:580" data-name="Frame">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame1} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="[word-break:break-word] flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] not-italic relative shrink-0 text-[#f5f7f3] text-[15px] whitespace-nowrap" data-node-id="270:582">
+                  <p className="leading-[18px]">eSIM</p>
+                </div>
+              </div>
+              <div className="absolute bg-[#0b0d0c] bottom-0 content-stretch flex flex-col gap-[8px] items-start left-[706px] px-[18px] py-[20px] rounded-[18px] top-0 w-[219.2px]" data-node-id="270:583" data-name="BUTTON.tvhelp-cat">
+                <div className="bg-[rgba(183,255,0,0.08)] relative rounded-[12px] shrink-0 size-[44px]" data-node-id="270:584" data-name="SPAN.tvhelp-cat__icon">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                    <div className="relative shrink-0 size-[22px]" data-node-id="270:585" data-name="SVG">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                        <div className="absolute left-0 size-[22px] top-0" data-node-id="270:586" data-name="Frame">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame4} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="h-[60.4px] relative shrink-0 w-[102.287px]" data-node-id="270:589" data-name="UL.tvhelp-cat__links">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col gap-[5px] items-start relative size-full">
+                    <div className="h-[16.8px] relative shrink-0 w-full" data-node-id="270:590" data-name="LI">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:591">
+                          <p className="leading-[15.2px]">Payment methods</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="h-[16.8px] relative shrink-0 w-full" data-node-id="270:592" data-name="LI">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:593">
+                          <p className="leading-[15.2px]">Failed payments</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="h-[16.8px] relative shrink-0 w-full" data-node-id="270:594" data-name="LI">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:595">
+                          <p className="leading-[15.2px]">Refund timelines</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute bottom-[17px] right-[17.2px] rounded-[14px] size-[28px]" data-node-id="270:596" data-name="SPAN.tvhelp-cat__arrow">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                    <div className="relative shrink-0 size-[12px]" data-node-id="270:597" data-name="SVG">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                        <div className="absolute left-0 size-[12px] top-0" data-node-id="270:598" data-name="Frame">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame1} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="[word-break:break-word] flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] not-italic relative shrink-0 text-[#f5f7f3] text-[15px] whitespace-nowrap" data-node-id="270:600">
+                  <p className="leading-[18px]">Payments</p>
+                </div>
+              </div>
+              <div className="absolute bg-[#0b0d0c] bottom-0 content-stretch flex flex-col gap-[8px] items-start left-[941px] px-[18px] py-[20px] rounded-[18px] top-0 w-[219.2px]" data-node-id="270:601" data-name="BUTTON.tvhelp-cat">
+                <div className="bg-[rgba(183,255,0,0.08)] relative rounded-[12px] shrink-0 size-[44px]" data-node-id="270:602" data-name="SPAN.tvhelp-cat__icon">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                    <div className="relative shrink-0 size-[22px]" data-node-id="270:603" data-name="SVG">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                        <div className="absolute left-0 size-[22px] top-0" data-node-id="270:604" data-name="Frame">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame5} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="h-[60.4px] relative shrink-0 w-[101.162px]" data-node-id="270:607" data-name="UL.tvhelp-cat__links">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col gap-[5px] items-start relative size-full">
+                    <div className="h-[16.8px] relative shrink-0 w-full" data-node-id="270:608" data-name="LI">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:609">
+                          <p className="leading-[15.2px]">{`Login & security`}</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="h-[16.8px] relative shrink-0 w-full" data-node-id="270:610" data-name="LI">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:611">
+                          <p className="leading-[15.2px]">Profile settings</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="h-[16.8px] relative shrink-0 w-full" data-node-id="270:612" data-name="LI">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:613">
+                          <p className="leading-[15.2px]">Manage bookings</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute bottom-[17px] right-[17.2px] rounded-[14px] size-[28px]" data-node-id="270:614" data-name="SPAN.tvhelp-cat__arrow">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                    <div className="relative shrink-0 size-[12px]" data-node-id="270:615" data-name="SVG">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                        <div className="absolute left-0 size-[12px] top-0" data-node-id="270:616" data-name="Frame">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame1} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="[word-break:break-word] flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] not-italic relative shrink-0 text-[#f5f7f3] text-[15px] whitespace-nowrap" data-node-id="270:618">
+                  <p className="leading-[18px]">Account</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[704.4px] left-[60px] right-[60px] top-[346px]" data-node-id="270:619" data-name="DIV.tvhelp-two-col">
+            <div className="absolute h-[576.4px] left-0 top-[64px] w-[752px]" data-node-id="270:620" data-name="DIV">
+              <div className="absolute content-end flex flex-wrap gap-y-[16px] h-[25.6px] items-end justify-between left-0 right-0 top-0" data-node-id="270:621" data-name="DIV.tr-section-head">
+                <div className="h-full relative rounded-[999px] shrink-0 w-[139.2px]" data-node-id="270:622" data-name="A.tr-view-all">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[6px] items-center px-[12px] py-[5px] relative size-full">
+                    <div className="relative shrink-0 size-[14px]" data-node-id="270:623" data-name="SVG">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                        <div className="absolute left-0 size-[14px] top-0" data-node-id="270:624" data-name="Frame">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame6} />
+                        </div>
+                      </div>
+                    </div>
+                    <div className="[word-break:break-word] flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[#b7ff00] text-[9px] whitespace-nowrap" data-node-id="270:626">
+                      <p className="leading-[11.2px]">View all FAQs</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="[word-break:break-word] flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] relative shrink-0 text-[#f5f7f3] text-[24px] whitespace-nowrap" data-node-id="270:627">
+                  <p className="leading-[24px]">Top questions</p>
+                </div>
+              </div>
+              <div className="absolute content-stretch flex flex-col h-[327.2px] items-start left-0 overflow-clip right-0 rounded-[18px] top-[46px]" data-node-id="270:628" data-name="DIV.tvfaq-list">
+                <div className="h-[54.4px] relative shrink-0 w-[750.4px]" data-node-id="270:629" data-name="DIV.tvfaq-item">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                    <div className="absolute bg-[#0b0d0c] content-stretch flex h-[53.6px] items-center justify-between left-0 px-[20px] py-[18px] right-0 top-0" data-node-id="270:630" data-name="BUTTON.tvfaq-item__q">
+                      <div className="relative shrink-0 size-[14px]" data-node-id="270:631" data-name="SVG">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                          <div className="absolute left-0 size-[14px] top-0" data-node-id="270:632" data-name="Frame">
+                            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame7} />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="[word-break:break-word] flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] not-italic relative shrink-0 text-[#f5f7f3] text-[14px] whitespace-nowrap" data-node-id="270:634">
+                        <p className="leading-[17.6px]">How do I install my eSIM?</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="h-[54.4px] relative shrink-0 w-[750.4px]" data-node-id="270:635" data-name="DIV.tvfaq-item">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                    <div className="absolute bg-[#0b0d0c] content-stretch flex h-[53.6px] items-center justify-between left-0 px-[20px] py-[18px] right-0 top-0" data-node-id="270:636" data-name="BUTTON.tvfaq-item__q">
+                      <div className="relative shrink-0 size-[14px]" data-node-id="270:637" data-name="SVG">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                          <div className="absolute left-0 size-[14px] top-0" data-node-id="270:638" data-name="Frame">
+                            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame7} />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="[word-break:break-word] flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] not-italic relative shrink-0 text-[#f5f7f3] text-[14px] whitespace-nowrap" data-node-id="270:640">
+                        <p className="leading-[17.6px]">Can I cancel or change my flight after booking?</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="h-[54.4px] relative shrink-0 w-[750.4px]" data-node-id="270:641" data-name="DIV.tvfaq-item">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                    <div className="absolute bg-[#0b0d0c] content-stretch flex h-[53.6px] items-center justify-between left-0 px-[20px] py-[18px] right-0 top-0" data-node-id="270:642" data-name="BUTTON.tvfaq-item__q">
+                      <div className="relative shrink-0 size-[14px]" data-node-id="270:643" data-name="SVG">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                          <div className="absolute left-0 size-[14px] top-0" data-node-id="270:644" data-name="Frame">
+                            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame7} />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="[word-break:break-word] flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] not-italic relative shrink-0 text-[#f5f7f3] text-[14px] whitespace-nowrap" data-node-id="270:646">
+                        <p className="leading-[17.6px]">When will I receive my booking confirmation?</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="h-[54.4px] relative shrink-0 w-[750.4px]" data-node-id="270:647" data-name="DIV.tvfaq-item">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                    <div className="absolute bg-[#0b0d0c] content-stretch flex h-[53.6px] items-center justify-between left-0 px-[20px] py-[18px] right-0 top-0" data-node-id="270:648" data-name="BUTTON.tvfaq-item__q">
+                      <div className="relative shrink-0 size-[14px]" data-node-id="270:649" data-name="SVG">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                          <div className="absolute left-0 size-[14px] top-0" data-node-id="270:650" data-name="Frame">
+                            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame7} />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="[word-break:break-word] flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] not-italic relative shrink-0 text-[#f5f7f3] text-[14px] whitespace-nowrap" data-node-id="270:652">
+                        <p className="leading-[17.6px]">What happens if my hotel cancels my reservation?</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="h-[54.4px] relative shrink-0 w-[750.4px]" data-node-id="270:653" data-name="DIV.tvfaq-item">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                    <div className="absolute bg-[#0b0d0c] content-stretch flex h-[53.6px] items-center justify-between left-0 px-[20px] py-[18px] right-0 top-0" data-node-id="270:654" data-name="BUTTON.tvfaq-item__q">
+                      <div className="relative shrink-0 size-[14px]" data-node-id="270:655" data-name="SVG">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                          <div className="absolute left-0 size-[14px] top-0" data-node-id="270:656" data-name="Frame">
+                            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame7} />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="[word-break:break-word] flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] not-italic relative shrink-0 text-[#f5f7f3] text-[14px] whitespace-nowrap" data-node-id="270:658">
+                        <p className="leading-[17.6px]">How do refunds work?</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="h-[53.6px] relative shrink-0 w-[750.4px]" data-node-id="270:659" data-name="DIV.tvfaq-item">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                    <div className="absolute bg-[#0b0d0c] content-stretch flex inset-0 items-center justify-between px-[20px] py-[18px]" data-node-id="270:660" data-name="BUTTON.tvfaq-item__q">
+                      <div className="relative shrink-0 size-[14px]" data-node-id="270:661" data-name="SVG">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                          <div className="absolute left-0 size-[14px] top-0" data-node-id="270:662" data-name="Frame">
+                            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame7} />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="[word-break:break-word] flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] not-italic relative shrink-0 text-[#f5f7f3] text-[14px] whitespace-nowrap" data-node-id="270:664">
+                        <p className="leading-[17.6px]">Why is my eSIM not connecting to the network?</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="absolute bg-[#0b0d0c] bottom-[-0.2px] h-[163.6px] left-0 right-0 rounded-[18px]" data-node-id="270:665" data-name="DIV.tvhelp-status">
+                <div className="absolute content-center flex flex-wrap gap-[10px] h-[16.8px] items-center left-[25px] top-[21px] w-[702.4px]" data-node-id="270:666" data-name="DIV.tvhelp-status__head">
+                  <div className="bg-[#7cf46b] relative rounded-[5px] shadow-[0px_0px_8px_0px_#7cf46b] shrink-0 size-[10px]" data-node-id="270:667" data-name="DIV.tvhelp-status__indicator" />
+                  <div className="h-full relative shrink-0 w-[559.888px]" data-node-id="270:668" data-name="SPAN.tvhelp-status__all">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-0 not-italic text-[#f5f7f3] text-[14px] top-[8.5px] whitespace-nowrap" data-node-id="270:669">
+                        <p className="leading-[16.8px]">All systems are operational</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="h-[15.2px] relative shrink-0 w-[112.513px]" data-node-id="270:670" data-name="A.tvhelp-status__link">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[4px] items-center relative size-full">
+                      <div className="relative shrink-0 size-[11px]" data-node-id="270:671" data-name="SVG">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                          <div className="absolute left-0 size-[11px] top-0" data-node-id="270:672" data-name="Frame">
+                            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame8} />
+                          </div>
+                        </div>
+                      </div>
+                      <div className="[word-break:break-word] flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] not-italic relative shrink-0 text-[#b7ff00] text-[12px] whitespace-nowrap" data-node-id="270:674">
+                        <p className="leading-[15.2px]">View status page</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute h-[85.2px] left-[25px] top-[58px] w-[702.4px]" data-node-id="270:675" data-name="DIV.tvhelp-status__grid">
+                  <div className="absolute bg-[#050606] bottom-0 content-stretch flex flex-col gap-[4px] items-center left-0 p-[12px] rounded-[8px] top-0 w-[166.6px]" data-node-id="270:676" data-name="DIV.tvhelp-status__item">
+                    <div className="h-[15.2px] relative shrink-0 w-[38.925px]" data-node-id="270:677" data-name="DIV.tvhelp-status__item-name">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-[19px] not-italic text-[#d9ded6] text-[12px] text-center top-[7px] whitespace-nowrap" data-node-id="270:678">
+                          <p className="leading-[15.2px]">Flights</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="h-[14.4px] relative shrink-0 w-[72.6px]" data-node-id="270:679" data-name="DIV.tvhelp-status__item-ok">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[36.5px] text-[#7cf46b] text-[11px] text-center top-[7.5px] whitespace-nowrap" data-node-id="270:680">
+                          <p className="leading-[14.4px]">Operational</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="absolute bg-[#050606] bottom-0 content-stretch flex flex-col gap-[4px] items-center left-[179px] p-[12px] rounded-[8px] top-0 w-[166.6px]" data-node-id="270:681" data-name="DIV.tvhelp-status__item">
+                    <div className="h-[22px] relative shrink-0 w-[18px]" data-node-id="270:682" data-name="SPAN.tvhelp-status__item-icon">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="absolute h-[18px] left-0 overflow-clip right-0 top-0" data-node-id="270:683" data-name="SVG">
+                          <div className="absolute left-0 size-[18px] top-0" data-node-id="270:684" data-name="Frame">
+                            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame9} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="h-[15.2px] relative shrink-0 w-[32.45px]" data-node-id="270:688" data-name="DIV.tvhelp-status__item-name">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-[16.5px] not-italic text-[#d9ded6] text-[12px] text-center top-[7px] whitespace-nowrap" data-node-id="270:689">
+                          <p className="leading-[15.2px]">Stays</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="h-[14.4px] relative shrink-0 w-[72.6px]" data-node-id="270:690" data-name="DIV.tvhelp-status__item-ok">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[36.5px] text-[#7cf46b] text-[11px] text-center top-[7.5px] whitespace-nowrap" data-node-id="270:691">
+                          <p className="leading-[14.4px]">Operational</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="absolute bg-[#050606] bottom-0 content-stretch flex flex-col gap-[4px] items-center left-[357px] p-[12px] rounded-[8px] top-0 w-[166.6px]" data-node-id="270:692" data-name="DIV.tvhelp-status__item">
+                    <div className="h-[22px] relative shrink-0 w-[18px]" data-node-id="270:693" data-name="SPAN.tvhelp-status__item-icon">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="absolute h-[18px] left-0 overflow-clip right-0 top-0" data-node-id="270:694" data-name="SVG">
+                          <div className="absolute left-0 size-[18px] top-0" data-node-id="270:695" data-name="Frame">
+                            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame10} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="h-[15.2px] relative shrink-0 w-[80.287px]" data-node-id="270:698" data-name="DIV.tvhelp-status__item-name">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-[40px] not-italic text-[#d9ded6] text-[12px] text-center top-[7px] whitespace-nowrap" data-node-id="270:699">
+                          <p className="leading-[15.2px]">eSIM Delivery</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="h-[14.4px] relative shrink-0 w-[72.6px]" data-node-id="270:700" data-name="DIV.tvhelp-status__item-ok">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[36.5px] text-[#7cf46b] text-[11px] text-center top-[7.5px] whitespace-nowrap" data-node-id="270:701">
+                          <p className="leading-[14.4px]">Operational</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="absolute bg-[#050606] bottom-0 content-stretch flex flex-col gap-[4px] items-center left-[536px] p-[12px] rounded-[8px] top-0 w-[166.6px]" data-node-id="270:702" data-name="DIV.tvhelp-status__item">
+                    <div className="h-[22px] relative shrink-0 w-[18px]" data-node-id="270:703" data-name="SPAN.tvhelp-status__item-icon">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="absolute h-[18px] left-0 overflow-clip right-0 top-0" data-node-id="270:704" data-name="SVG">
+                          <div className="absolute left-0 size-[18px] top-0" data-node-id="270:705" data-name="Frame">
+                            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame11} />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="h-[15.2px] relative shrink-0 w-[57.375px]" data-node-id="270:708" data-name="DIV.tvhelp-status__item-name">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-[28px] not-italic text-[#d9ded6] text-[12px] text-center top-[7px] whitespace-nowrap" data-node-id="270:709">
+                          <p className="leading-[15.2px]">Payments</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="h-[14.4px] relative shrink-0 w-[72.6px]" data-node-id="270:710" data-name="DIV.tvhelp-status__item-ok">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[36.5px] text-[#7cf46b] text-[11px] text-center top-[7.5px] whitespace-nowrap" data-node-id="270:711">
+                          <p className="leading-[14.4px]">Operational</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="absolute content-stretch flex flex-col gap-[24px] h-[576.4px] items-start left-[800px] top-[64px] w-[360px]" data-node-id="270:712" data-name="DIV.tvhelp-right-col">
+              <div className="bg-[#0b0d0c] h-[232.2px] relative rounded-[18px] shrink-0 w-full" data-node-id="270:713" data-name="DIV.tvright-card">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="absolute content-stretch flex h-[72.6px] items-start left-[21px] top-[87px] w-[318.4px]" data-node-id="270:714" data-name="DIV.tvhelp-esim-steps">
+                    <div className="h-full relative shrink-0 w-[90.125px]" data-node-id="270:715" data-name="DIV.tvhelp-esim-step">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col gap-[8px] items-center relative size-full">
+                        <div className="bg-[#b7ff00] relative rounded-[18px] shadow-[0px_0px_12px_0px_rgba(183,255,0,0.35),0px_0px_0px_1px_rgba(183,255,0,0.4)] shrink-0 size-[36px]" data-node-id="270:716" data-name="DIV.tvhelp-esim-step__num">
+                          <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center overflow-clip relative rounded-[inherit] size-full">
+                            <div className="[word-break:break-word] flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] relative shrink-0 text-[16px] text-black text-center whitespace-nowrap" data-node-id="270:717">
+                              <p className="leading-[20.8px]">1</p>
+                            </div>
+                          </div>
+                        </div>
+                        <div className="h-[28.6px] relative shrink-0 w-full" data-node-id="270:718" data-name="DIV.tvhelp-esim-step__label">
+                          <div className="[word-break:break-word] bg-clip-padding border-0 border-[transparent] border-solid font-['Inter:Regular'] font-normal leading-[0] not-italic relative size-full text-[#d9ded6] text-[11px] text-center whitespace-nowrap">
+                            <div className="-translate-x-1/2 -translate-y-1/2 absolute flex flex-col justify-center left-[44.5px] top-[6.5px]" data-node-id="270:719">
+                              <p className="leading-[12.8px]">Buy your eSIM</p>
+                            </div>
+                            <div className="-translate-x-1/2 -translate-y-1/2 absolute flex flex-col justify-center left-[83px] top-[6.5px]" data-node-id="270:720">
+                              <p className="leading-[12.8px]">​</p>
+                            </div>
+                            <div className="-translate-x-1/2 -translate-y-1/2 absolute flex flex-col justify-center left-[45px] top-[20.5px]" data-node-id="270:721">
+                              <p className="leading-[12.8px]">plan</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="bg-[rgba(245,247,243,0.12)] h-px relative shrink-0 w-[24px]" data-node-id="270:722" data-name="DIV.tvhelp-esim-step__dash" />
+                    <div className="h-full relative shrink-0 w-[90.138px]" data-node-id="270:723" data-name="DIV.tvhelp-esim-step">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col gap-[8px] items-center relative size-full">
+                        <div className="bg-[#b7ff00] relative rounded-[18px] shadow-[0px_0px_12px_0px_rgba(183,255,0,0.35),0px_0px_0px_1px_rgba(183,255,0,0.4)] shrink-0 size-[36px]" data-node-id="270:724" data-name="DIV.tvhelp-esim-step__num">
+                          <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center overflow-clip relative rounded-[inherit] size-full">
+                            <div className="[word-break:break-word] flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] relative shrink-0 text-[16px] text-black text-center whitespace-nowrap" data-node-id="270:725">
+                              <p className="leading-[20.8px]">2</p>
+                            </div>
+                          </div>
+                        </div>
+                        <div className="h-[28.6px] relative shrink-0 w-full" data-node-id="270:726" data-name="DIV.tvhelp-esim-step__label">
+                          <div className="[word-break:break-word] bg-clip-padding border-0 border-[transparent] border-solid font-['Inter:Regular'] font-normal leading-[0] not-italic relative size-full text-[#d9ded6] text-[11px] text-center whitespace-nowrap">
+                            <div className="-translate-x-1/2 -translate-y-1/2 absolute flex flex-col justify-center left-[45.5px] top-[6.5px]" data-node-id="270:727">
+                              <p className="leading-[12.8px]">Scan the QR</p>
+                            </div>
+                            <div className="-translate-x-1/2 -translate-y-1/2 absolute flex flex-col justify-center left-[77px] top-[6.5px]" data-node-id="270:728">
+                              <p className="leading-[12.8px]">​</p>
+                            </div>
+                            <div className="-translate-x-1/2 -translate-y-1/2 absolute flex flex-col justify-center left-[45px] top-[20.5px]" data-node-id="270:729">
+                              <p className="leading-[12.8px]">code</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="bg-[rgba(245,247,243,0.12)] h-px relative shrink-0 w-[24px]" data-node-id="270:730" data-name="DIV.tvhelp-esim-step__dash" />
+                    <div className="h-full relative shrink-0 w-[90.138px]" data-node-id="270:731" data-name="DIV.tvhelp-esim-step">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col gap-[8px] items-center relative size-full">
+                        <div className="bg-[#b7ff00] relative rounded-[18px] shadow-[0px_0px_12px_0px_rgba(183,255,0,0.35),0px_0px_0px_1px_rgba(183,255,0,0.4)] shrink-0 size-[36px]" data-node-id="270:732" data-name="DIV.tvhelp-esim-step__num">
+                          <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center overflow-clip relative rounded-[inherit] size-full">
+                            <div className="[word-break:break-word] flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] relative shrink-0 text-[16px] text-black text-center whitespace-nowrap" data-node-id="270:733">
+                              <p className="leading-[20.8px]">3</p>
+                            </div>
+                          </div>
+                        </div>
+                        <div className="h-[28.6px] relative shrink-0 w-full" data-node-id="270:734" data-name="DIV.tvhelp-esim-step__label">
+                          <div className="[word-break:break-word] bg-clip-padding border-0 border-[transparent] border-solid font-['Inter:Regular'] font-normal leading-[0] not-italic relative size-full text-[#d9ded6] text-[11px] text-center whitespace-nowrap">
+                            <div className="-translate-x-1/2 -translate-y-1/2 absolute flex flex-col justify-center left-[44px] top-[6.5px]" data-node-id="270:735">
+                              <p className="leading-[12.8px]">{`Activate & enjoy`}</p>
+                            </div>
+                            <div className="-translate-x-1/2 -translate-y-1/2 absolute flex flex-col justify-center left-[87px] top-[6.5px]" data-node-id="270:736">
+                              <p className="leading-[12.8px]">​</p>
+                            </div>
+                            <div className="-translate-x-1/2 -translate-y-1/2 absolute flex flex-col justify-center left-[45px] top-[20.5px]" data-node-id="270:737">
+                              <p className="leading-[12.8px]">data</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="absolute bg-[#b7ff00] bottom-[21.2px] content-stretch flex gap-[8px] h-[32px] items-center justify-center left-[21px] overflow-clip px-[18px] py-[9px] rounded-[999px] shadow-[0px_0px_12px_0px_rgba(183,255,0,0.35),0px_0px_0px_1px_rgba(183,255,0,0.4)] w-[318.4px]" data-node-id="270:738" data-name="A.tr-btn">
+                    <div className="relative shrink-0 size-[14px]" data-node-id="270:739" data-name="SVG">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                        <div className="absolute left-0 size-[14px] top-0" data-node-id="270:740" data-name="Frame">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame12} />
+                        </div>
+                      </div>
+                    </div>
+                    <div className="[word-break:break-word] flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] relative shrink-0 text-[10px] text-black whitespace-nowrap" data-node-id="270:742">
+                      <p className="leading-[12.8px]">View full eSIM guide</p>
+                    </div>
+                  </div>
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] left-[21px] text-[#f5f7f3] text-[13px] top-[29.5px] whitespace-nowrap" data-node-id="270:743">
+                    <p className="leading-[16.8px]">Get connected in 3 simple steps</p>
+                  </div>
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-[21px] not-italic text-[#a6b0a3] text-[12px] top-[59px] whitespace-nowrap" data-node-id="270:744">
+                    <p className="leading-[15.2px]">Setting up your eSIM is quick and easy.</p>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-[#0b0d0c] h-[278.2px] relative rounded-[18px] shrink-0 w-full" data-node-id="270:745" data-name="DIV.tvright-card">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="absolute h-[174.6px] left-[21px] top-[83px] w-[318.4px]" data-node-id="270:746" data-name="DIV.tvhelp-contact-grid">
+                    <div className="absolute bg-[#121513] bottom-0 content-stretch flex flex-col gap-[6.667px] items-start left-0 p-[14px] rounded-[12px] top-0 w-[124.4px]" data-node-id="270:747" data-name="A.tvhelp-contact-card">
+                      <div className="bg-[rgba(183,255,0,0.08)] relative rounded-[8px] shrink-0 size-[32px]" data-node-id="270:748" data-name="DIV.tvhelp-contact-card__icon">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                          <div className="relative shrink-0 size-[18px]" data-node-id="270:749" data-name="SVG">
+                            <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                              <div className="absolute left-0 size-[18px] top-0" data-node-id="270:750" data-name="Frame">
+                                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame13} />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="bg-[#b7ff00] h-[30.8px] relative rounded-[999px] shadow-[0px_0px_12px_0px_rgba(183,255,0,0.35),0px_0px_0px_1px_rgba(183,255,0,0.4)] shrink-0 w-[94.8px]" data-node-id="270:752" data-name="BUTTON.tr-btn">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center overflow-clip px-[18px] py-[9px] relative rounded-[inherit] size-full">
+                          <div className="[word-break:break-word] flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] relative shrink-0 text-[10px] text-black text-center whitespace-nowrap" data-node-id="270:753">
+                            <p className="leading-[12.8px]">Chat now</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="[word-break:break-word] flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] not-italic relative shrink-0 text-[#f5f7f3] text-[13px] whitespace-nowrap" data-node-id="270:754">
+                        <p className="leading-[16px]">Live Chat</p>
+                      </div>
+                      <div className="[word-break:break-word] flex flex-col font-['Inter:Regular'] font-normal h-[46.2px] justify-center leading-[0] not-italic overflow-hidden relative shrink-0 text-[#a6b0a3] text-[11px] text-ellipsis w-[94.8px]" data-node-id="270:755">
+                        <p className="leading-[12.8px] mb-0">Chat with our</p>
+                        <p className="leading-[12.8px] mb-0">agents in real</p>
+                        <p className="leading-[12.8px]">time</p>
+                      </div>
+                    </div>
+                    <div className="absolute bg-[#121513] bottom-0 content-stretch flex flex-col gap-[6.667px] items-start left-[134px] p-[14px] rounded-[12px] top-0 w-[120.588px]" data-node-id="270:756" data-name="A.tvhelp-contact-card">
+                      <div className="bg-[rgba(183,255,0,0.08)] relative rounded-[8px] shrink-0 size-[32px]" data-node-id="270:757" data-name="DIV.tvhelp-contact-card__icon">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                          <div className="relative shrink-0 size-[18px]" data-node-id="270:758" data-name="SVG">
+                            <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                              <div className="absolute left-0 size-[18px] top-0" data-node-id="270:759" data-name="Frame">
+                                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame14} />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="h-[32.4px] relative rounded-[999px] shrink-0 w-[90.988px]" data-node-id="270:762" data-name="BUTTON.tr-btn">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center px-[18px] py-[9px] relative size-full">
+                          <div className="[word-break:break-word] flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] relative shrink-0 text-[#f5f7f3] text-[10px] text-center whitespace-nowrap" data-node-id="270:763">
+                            <p className="leading-[12.8px]">Email us</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="[word-break:break-word] flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] not-italic relative shrink-0 text-[#f5f7f3] text-[13px] whitespace-nowrap" data-node-id="270:764">
+                        <p className="leading-[16px]">Email Support</p>
+                      </div>
+                      <div className="[word-break:break-word] flex flex-col font-['Inter:Regular'] font-normal h-[44.6px] justify-center leading-[0] not-italic overflow-hidden relative shrink-0 text-[#a6b0a3] text-[11px] text-ellipsis w-[90.988px]" data-node-id="270:765">
+                        <p className="leading-[12.8px] mb-0">{`We'll get back to`}</p>
+                        <p className="leading-[12.8px]">you via email</p>
+                      </div>
+                    </div>
+                    <div className="absolute bg-[#121513] bottom-0 content-stretch flex flex-col gap-[6.667px] items-start left-[265px] p-[14px] rounded-[12px] top-0 w-[139.45px]" data-node-id="270:766" data-name="A.tvhelp-contact-card">
+                      <div className="bg-[rgba(183,255,0,0.08)] relative rounded-[8px] shrink-0 size-[32px]" data-node-id="270:767" data-name="DIV.tvhelp-contact-card__icon">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                          <div className="relative shrink-0 size-[18px]" data-node-id="270:768" data-name="SVG">
+                            <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                              <div className="absolute left-0 size-[18px] top-0" data-node-id="270:769" data-name="Frame">
+                                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame15} />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="h-[32.4px] relative rounded-[999px] shrink-0 w-[109.85px]" data-node-id="270:771" data-name="BUTTON.tr-btn">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center px-[18px] py-[9px] relative size-full">
+                          <div className="[word-break:break-word] flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] relative shrink-0 text-[#f5f7f3] text-[10px] text-center whitespace-nowrap" data-node-id="270:772">
+                            <p className="leading-[12.8px]">Message us</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="[word-break:break-word] flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] not-italic relative shrink-0 text-[#f5f7f3] text-[13px] whitespace-nowrap" data-node-id="270:773">
+                        <p className="leading-[16px]">WhatsApp</p>
+                      </div>
+                      <div className="[word-break:break-word] flex flex-col font-['Inter:Regular'] font-normal h-[44.6px] justify-center leading-[0] not-italic overflow-hidden relative shrink-0 text-[#a6b0a3] text-[11px] text-ellipsis w-[109.85px]" data-node-id="270:774">
+                        <p className="leading-[12.8px] mb-0">Message us on</p>
+                        <p className="leading-[12.8px]">WhatsApp</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] left-[21px] text-[#f5f7f3] text-[13px] top-[29.5px] whitespace-nowrap" data-node-id="270:775">
+                    <p className="leading-[16.8px]">Still need help?</p>
+                  </div>
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-[21px] not-italic text-[#a6b0a3] text-[12px] top-[59px] whitespace-nowrap" data-node-id="270:776">
+                    <p className="leading-[15.2px]">Our support team is here for you 24/7.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[416.075px] left-[60px] right-[60px] top-[1051px]" data-node-id="270:777" data-name="DIV">
+            <div className="absolute h-[24.475px] left-0 right-0 top-[64px]" data-node-id="270:778" data-name="H2.tr-h2">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] left-0 text-[#f5f7f3] text-[24px] top-[8px] whitespace-nowrap" data-node-id="270:779">
+                <p className="leading-[24px]">{`Help articles & guides`}</p>
+              </div>
+            </div>
+            <div className="absolute h-[235.6px] left-0 right-0 top-[116px]" data-node-id="270:780" data-name="DIV.tvhelp-articles">
+              <div className="absolute bg-[#0b0d0c] bottom-0 left-0 overflow-clip rounded-[18px] top-0 w-[275px]" data-node-id="270:781" data-name="BUTTON.tvhelp-article">
+                <div className="absolute h-[140px] left-px top-px w-[273.4px]" data-node-id="270:782" data-name="DIV.tvhelp-article__img-wrap">
+                  <div className="absolute inset-0 overflow-clip" data-node-id="270:783" data-name="IMG.tvhelp-article__img">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImgTvhelpArticleImg} />
+                  </div>
+                  <div className="absolute bg-gradient-to-b from-[40%] from-[rgba(0,0,0,0)] inset-0 to-[rgba(0,0,0,0.5)]" data-node-id="270:785" data-name="DIV.tvhelp-article__overlay" />
+                </div>
+                <div className="[word-break:break-word] absolute h-[94px] leading-[0] left-px top-[141px] w-[273.4px] whitespace-nowrap" data-node-id="270:786" data-name="DIV.tvhelp-article__body">
+                  <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center left-[16px] not-italic text-[#f5f7f3] text-[15px] top-[25.5px]" data-node-id="270:787">
+                    <p className="leading-[18.4px]">Travel planning</p>
+                  </div>
+                  <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Regular'] font-normal justify-center left-[16px] not-italic text-[#a6b0a3] text-[12px] top-[46px]" data-node-id="270:788">
+                    <p className="leading-[15.2px]">Everything you need to plan your trip</p>
+                  </div>
+                  <div className="-translate-y-1/2 absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal h-[13.6px] justify-center left-[16px] overflow-hidden text-[#b7ff00] text-[10px] text-ellipsis top-[70.8px] w-[241.4px]" data-node-id="270:789">
+                    <p className="leading-[13.6px] overflow-hidden text-ellipsis">12articles</p>
+                  </div>
+                </div>
+              </div>
+              <div className="absolute bg-[#0b0d0c] bottom-0 left-[295px] overflow-clip rounded-[18px] top-0 w-[275px]" data-node-id="270:790" data-name="BUTTON.tvhelp-article">
+                <div className="absolute h-[140px] left-px top-px w-[273.4px]" data-node-id="270:791" data-name="DIV.tvhelp-article__img-wrap">
+                  <div className="absolute inset-0 overflow-clip" data-node-id="270:792" data-name="IMG.tvhelp-article__img">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImgTvhelpArticleImg1} />
+                  </div>
+                  <div className="absolute bg-gradient-to-b from-[40%] from-[rgba(0,0,0,0)] inset-0 to-[rgba(0,0,0,0.5)]" data-node-id="270:794" data-name="DIV.tvhelp-article__overlay" />
+                </div>
+                <div className="[word-break:break-word] absolute h-[94px] leading-[0] left-px top-[141px] w-[273.4px] whitespace-nowrap" data-node-id="270:795" data-name="DIV.tvhelp-article__body">
+                  <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center left-[16px] not-italic text-[#f5f7f3] text-[15px] top-[25.5px]" data-node-id="270:796">
+                    <p className="leading-[18.4px]">Connectivity (eSIM)</p>
+                  </div>
+                  <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Regular'] font-normal justify-center left-[16px] not-italic text-[#a6b0a3] text-[12px] top-[46px]" data-node-id="270:797">
+                    <p className="leading-[15.2px]">Setup, activation and troubleshooting</p>
+                  </div>
+                  <div className="-translate-y-1/2 absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal h-[13.6px] justify-center left-[16px] overflow-hidden text-[#b7ff00] text-[10px] text-ellipsis top-[70.8px] w-[241.4px]" data-node-id="270:798">
+                    <p className="leading-[13.6px] overflow-hidden text-ellipsis">18articles</p>
+                  </div>
+                </div>
+              </div>
+              <div className="absolute bg-[#0b0d0c] bottom-0 left-[590px] overflow-clip rounded-[18px] top-0 w-[275px]" data-node-id="270:799" data-name="BUTTON.tvhelp-article">
+                <div className="absolute h-[140px] left-px top-px w-[273.4px]" data-node-id="270:800" data-name="DIV.tvhelp-article__img-wrap">
+                  <div className="absolute inset-0 overflow-clip" data-node-id="270:801" data-name="IMG.tvhelp-article__img">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImgTvhelpArticleImg2} />
+                  </div>
+                  <div className="absolute bg-gradient-to-b from-[40%] from-[rgba(0,0,0,0)] inset-0 to-[rgba(0,0,0,0.5)]" data-node-id="270:803" data-name="DIV.tvhelp-article__overlay" />
+                </div>
+                <div className="[word-break:break-word] absolute h-[94px] leading-[0] left-px top-[141px] w-[273.4px] whitespace-nowrap" data-node-id="270:804" data-name="DIV.tvhelp-article__body">
+                  <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center left-[16px] not-italic text-[#f5f7f3] text-[15px] top-[25.5px]" data-node-id="270:805">
+                    <p className="leading-[18.4px]">Booking management</p>
+                  </div>
+                  <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Regular'] font-normal justify-center left-[16px] not-italic text-[#a6b0a3] text-[12px] top-[46px]" data-node-id="270:806">
+                    <p className="leading-[15.2px]">Manage your bookings with ease</p>
+                  </div>
+                  <div className="-translate-y-1/2 absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal h-[13.6px] justify-center left-[16px] overflow-hidden text-[#b7ff00] text-[10px] text-ellipsis top-[70.8px] w-[241.4px]" data-node-id="270:807">
+                    <p className="leading-[13.6px] overflow-hidden text-ellipsis">15articles</p>
+                  </div>
+                </div>
+              </div>
+              <div className="absolute bg-[#0b0d0c] bottom-0 left-[885px] overflow-clip rounded-[18px] top-0 w-[275px]" data-node-id="270:808" data-name="BUTTON.tvhelp-article">
+                <div className="absolute h-[140px] left-px top-px w-[273.4px]" data-node-id="270:809" data-name="DIV.tvhelp-article__img-wrap">
+                  <div className="absolute inset-0 overflow-clip" data-node-id="270:810" data-name="IMG.tvhelp-article__img">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImgTvhelpArticleImg3} />
+                  </div>
+                  <div className="absolute bg-gradient-to-b from-[40%] from-[rgba(0,0,0,0)] inset-0 to-[rgba(0,0,0,0.5)]" data-node-id="270:812" data-name="DIV.tvhelp-article__overlay" />
+                </div>
+                <div className="[word-break:break-word] absolute h-[94px] leading-[0] left-px top-[141px] w-[273.4px] whitespace-nowrap" data-node-id="270:813" data-name="DIV.tvhelp-article__body">
+                  <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center left-[16px] not-italic text-[#f5f7f3] text-[15px] top-[25.5px]" data-node-id="270:814">
+                    <p className="leading-[18.4px]">{`Airport & arrival`}</p>
+                  </div>
+                  <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Regular'] font-normal justify-center left-[16px] not-italic text-[#a6b0a3] text-[12px] top-[46px]" data-node-id="270:815">
+                    <p className="leading-[15.2px]">Information for a smooth travel experience</p>
+                  </div>
+                  <div className="-translate-y-1/2 absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal h-[13.6px] justify-center left-[16px] overflow-hidden text-[#b7ff00] text-[10px] text-ellipsis top-[70.8px] w-[241.4px]" data-node-id="270:816">
+                    <p className="leading-[13.6px] overflow-hidden text-ellipsis">10articles</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="absolute bg-[#0b0d0c] h-[96.8px] left-0 right-0 top-[2087px]" data-node-id="270:817" data-name="DIV.tvtrust-bar">
+          <div className="-translate-x-1/2 absolute h-[40px] left-[calc(50%-0.4px)] top-[29px] w-[1280px]" data-node-id="270:818" data-name="DIV.tr-container">
+            <div className="absolute bottom-0 content-stretch flex gap-[14px] items-center left-[60px] top-0 w-[272px]" data-node-id="270:819" data-name="DIV.tvtrust-bar__item">
+              <div className="bg-[rgba(183,255,0,0.08)] h-full relative rounded-[12px] shrink-0 w-[40px]" data-node-id="270:820" data-name="SPAN.tvtrust-bar__icon">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                  <div className="relative shrink-0 size-[18px]" data-node-id="270:821" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-0 size-[18px] top-0" data-node-id="270:822" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame16} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[35.6px] relative shrink-0 w-[168.475px]" data-node-id="270:824" data-name="DIV">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="absolute h-[16.8px] left-0 right-0 top-0" data-node-id="270:825" data-name="DIV.tvtrust-bar__title">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-0 not-italic text-[#f5f7f3] text-[13px] top-[8.5px] whitespace-nowrap" data-node-id="270:826">
+                      <p className="leading-[16.8px]">Secure Payments</p>
+                    </div>
+                  </div>
+                  <div className="absolute h-[16.8px] left-0 right-0 top-[19px]" data-node-id="270:827" data-name="DIV.tvtrust-bar__desc">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:828">
+                      <p className="leading-[15.2px]">Your payment is 100% secure</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="absolute bottom-0 content-stretch flex gap-[14px] items-center left-[356px] top-0 w-[272px]" data-node-id="270:829" data-name="DIV.tvtrust-bar__item">
+              <div className="bg-[rgba(183,255,0,0.08)] h-full relative rounded-[12px] shrink-0 w-[40px]" data-node-id="270:830" data-name="SPAN.tvtrust-bar__icon">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                  <div className="relative shrink-0 size-[18px]" data-node-id="270:831" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-0 size-[18px] top-0" data-node-id="270:832" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame17} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[35.6px] relative shrink-0 w-[136.25px]" data-node-id="270:835" data-name="DIV">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="absolute h-[16.8px] left-0 right-0 top-0" data-node-id="270:836" data-name="DIV.tvtrust-bar__title">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-0 not-italic text-[#f5f7f3] text-[13px] top-[8.5px] whitespace-nowrap" data-node-id="270:837">
+                      <p className="leading-[16.8px]">Flexible Booking</p>
+                    </div>
+                  </div>
+                  <div className="absolute h-[16.8px] left-0 right-0 top-[19px]" data-node-id="270:838" data-name="DIV.tvtrust-bar__desc">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:839">
+                      <p className="leading-[15.2px]">Change or cancel easily</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="absolute bottom-0 content-stretch flex gap-[14px] items-center left-[652px] top-0 w-[272px]" data-node-id="270:840" data-name="DIV.tvtrust-bar__item">
+              <div className="bg-[rgba(183,255,0,0.08)] h-full relative rounded-[12px] shrink-0 w-[40px]" data-node-id="270:841" data-name="SPAN.tvtrust-bar__icon">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                  <div className="relative shrink-0 size-[18px]" data-node-id="270:842" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-0 size-[18px] top-0" data-node-id="270:843" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame18} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[35.6px] relative shrink-0 w-[152.125px]" data-node-id="270:845" data-name="DIV">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="absolute h-[16.8px] left-0 right-0 top-0" data-node-id="270:846" data-name="DIV.tvtrust-bar__title">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-0 not-italic text-[#f5f7f3] text-[13px] top-[8.5px] whitespace-nowrap" data-node-id="270:847">
+                      <p className="leading-[16.8px]">24/7 Support</p>
+                    </div>
+                  </div>
+                  <div className="absolute h-[16.8px] left-0 right-0 top-[19px]" data-node-id="270:848" data-name="DIV.tvtrust-bar__desc">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:849">
+                      <p className="leading-[15.2px]">{`We're here to help anytime`}</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="absolute bottom-0 content-stretch flex gap-[14px] items-center left-[948px] top-0 w-[272px]" data-node-id="270:850" data-name="DIV.tvtrust-bar__item">
+              <div className="bg-[rgba(183,255,0,0.08)] h-full relative rounded-[12px] shrink-0 w-[40px]" data-node-id="270:851" data-name="SPAN.tvtrust-bar__icon">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                  <div className="relative shrink-0 size-[18px]" data-node-id="270:852" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-0 size-[18px] top-0" data-node-id="270:853" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame19} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[35.6px] relative shrink-0 w-[169.363px]" data-node-id="270:855" data-name="DIV">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="absolute h-[16.8px] left-0 right-0 top-0" data-node-id="270:856" data-name="DIV.tvtrust-bar__title">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-0 not-italic text-[#f5f7f3] text-[13px] top-[8.5px] whitespace-nowrap" data-node-id="270:857">
+                      <p className="leading-[16.8px]">No Hidden Fees</p>
+                    </div>
+                  </div>
+                  <div className="absolute h-[16.8px] left-0 right-0 top-[19px]" data-node-id="270:858" data-name="DIV.tvtrust-bar__desc">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:859">
+                      <p className="leading-[15.2px]">What you see is what you pay</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute h-[756.625px] left-0 overflow-clip right-0 shadow-[0px_-1px_0px_0px_rgba(183,255,0,0.04)] top-[2248px]" data-node-id="270:860" data-name="FOOTER.lp-foot">
+        <div aria-hidden className="absolute bg-black inset-0 pointer-events-none" />
+        <div className="absolute h-[755.825px] left-0 right-0 top-px" data-node-id="270:861" style={{ backgroundImage: "linear-gradient(rgba(183, 255, 0, 0.04) 0%, rgb(0, 0, 0) 30%), url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 1520.8 755.83' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='1'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(172.06 0 0 85.512 1216.6 604.66)'><stop stop-color='rgba(183,255,0,0.08)' offset='0'/><stop stop-color='rgba(183,255,0,0)' offset='0.4'/></radialGradient></defs></svg>\"), url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 1520.8 755.83' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='1'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(172.06 0 0 106.89 304.16 0)'><stop stop-color='rgba(183,255,0,0.18)' offset='0'/><stop stop-color='rgba(183,255,0,0)' offset='0.44'/></radialGradient></defs></svg>\")" }} data-name="DIV.lp-foot__bg" />
+        <div className="absolute h-[755.825px] left-0 right-0 top-px" data-node-id="270:862" style={{ backgroundImage: "linear-gradient(90deg, rgba(183, 255, 0, 0.08) 0%, rgba(183, 255, 0, 0) 0%), linear-gradient(rgba(183, 255, 0, 0.08) 0.13231%, rgba(183, 255, 0, 0) 0.13231%)" }} data-name="DIV.lp-foot__grid" />
+        <div className="-translate-x-1/2 absolute content-end flex flex-wrap gap-y-[40px] h-[189.825px] items-end justify-between left-[calc(50%-0.4px)] pb-[52px] top-[81px] w-[1280px]" data-node-id="270:863" data-name="DIV.lp-foot__connect">
+          <div className="h-[137.025px] relative shrink-0 w-[367.7px]" data-node-id="270:864" data-name="DIV.lp-foot__newsletter-copy">
+            <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+              <div className="absolute content-stretch flex gap-[8px] h-[14.4px] items-center left-0 top-[5px] w-[146.45px]" data-node-id="270:865" data-name="DIV.lp-eyebrow">
+                <div className="bg-[#b7ff00] opacity-81 relative rounded-[2.74px] shadow-[0px_0px_8px_0px_rgba(183,255,0,0.55)] shrink-0 size-[5.472px]" data-node-id="270:866" data-name="SPAN.dot" />
+                <div className="[word-break:break-word] flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[#b7ff00] text-[11px] whitespace-nowrap" data-node-id="270:867">
+                  <p className="leading-[14.4px]">Stay Connected</p>
+                </div>
+              </div>
+              <div className="[word-break:break-word] absolute bottom-[51.8px] font-['Space_Grotesk:Bold'] font-bold h-[58.225px] leading-[0] left-0 right-0 text-[#f5f7f3] text-[26px] whitespace-nowrap" data-node-id="270:868" data-name="H3.lp-h3">
+                <div className="-translate-y-1/2 absolute flex flex-col justify-center left-0 top-[14.5px]" data-node-id="270:869">
+                  <p className="leading-[29px]">Exclusive trial windows,</p>
+                </div>
+                <div className="-translate-y-1/2 absolute flex flex-col justify-center left-0 top-[43.5px]" data-node-id="270:870">
+                  <p className="leading-[29px]">{`offers & football insights.`}</p>
+                </div>
+              </div>
+              <div className="absolute bottom-[-0.37px] h-[43.4px] left-0 w-[300.288px]" data-node-id="270:871" data-name="P.lp-small">
+                <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal h-[43.4px] justify-center leading-[0] left-0 not-italic overflow-hidden text-[#a6b0a3] text-[14px] text-ellipsis top-[21.7px] w-[300.288px]" data-node-id="270:872">
+                  <p className="leading-[16.8px] mb-0">Join 2,400+ players, coaches, and brands</p>
+                  <p className="leading-[16.8px]">receiving our monthly briefing.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="h-[104.1px] relative shrink-0 w-[400px]" data-node-id="270:873" data-name="DIV.lp-foot__newsletter-form">
+            <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col gap-[10px] items-end relative size-full">
+              <div className="bg-[rgba(18,21,19,0.75)] h-[48px] relative rounded-[999px] shrink-0 w-full" data-node-id="270:874" data-name="FORM.lp-foot__sub">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center pl-[22px] pr-[6px] py-[6px] relative size-full">
+                  <div className="h-[16.8px] relative shrink-0 w-[260.188px]" data-node-id="270:875" data-name="INPUT - Email address">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-[-1023px] not-italic text-[#f5f7f3] text-[14px] top-[-2401px] whitespace-nowrap" data-node-id="270:876">
+                        <p className="leading-[0px]">you@email.com</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="bg-[#b7ff00] h-[34.4px] relative rounded-[999px] shadow-[0px_0px_12px_0px_rgba(183,255,0,0.35),0px_0px_0px_1px_rgba(183,255,0,0.4)] shrink-0 w-[110.213px]" data-node-id="270:877" data-name="BUTTON.lp-btn">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center overflow-clip px-[18px] py-[10px] relative rounded-[inherit] size-full">
+                      <div className="[word-break:break-word] flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] relative shrink-0 text-[11px] text-black text-center whitespace-nowrap" data-node-id="270:878">
+                        <p className="leading-[14.4px]">Subscribe</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[21.7px] relative shrink-0 w-[211.3px]" data-node-id="270:879" data-name="P.lp-small">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#6c7668] text-[14px] top-[10.5px] whitespace-nowrap" data-node-id="270:880">
+                    <p className="leading-[16.8px]">No spam. Unsubscribe anytime.</p>
+                  </div>
+                </div>
+              </div>
+              <div className="[word-break:break-word] flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[#a6b0a3] text-[11px] whitespace-nowrap" data-node-id="270:881">
+                <p className="leading-[14.4px]">Get the Golafly briefing</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="-translate-x-1/2 absolute h-[303.6px] left-[calc(50%-0.4px)] top-[335px] w-[1280px]" data-node-id="270:882" data-name="DIV.lp-foot__main">
+          <div className="absolute bottom-0 left-0 top-0 w-[301.763px]" data-node-id="270:883" data-name="DIV.lp-foot__brand">
+            <div className="absolute left-0 opacity-90 size-[96px] top-0" data-node-id="270:884" data-name="IMG" />
+            <div className="absolute bottom-[104.8px] h-[86.8px] left-0 w-[247.288px]" data-node-id="270:885" data-name="P.lp-small">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal h-[86.8px] justify-center leading-[0] left-0 not-italic overflow-hidden text-[#a6b0a3] text-[14px] text-ellipsis top-[43.4px] w-[247.288px]" data-node-id="270:886">
+                <p className="leading-[16.8px] mb-0">Global football development, tourism,</p>
+                <p className="leading-[16.8px] mb-0">and sports marketing. Connecting</p>
+                <p className="leading-[16.8px] mb-0">talent, brands, and fans to real</p>
+                <p className="leading-[16.8px]">opportunities worldwide.</p>
+              </div>
+            </div>
+            <div className="absolute bottom-[53.8px] content-stretch flex flex-col gap-[6px] h-[34.8px] items-start left-0 right-0" data-node-id="270:887" data-name="DIV.lp-foot__contact">
+              <div className="h-[14.4px] relative shrink-0 w-full" data-node-id="270:888" data-name="A.lp-foot__contact-link">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#6c7668] text-[11px] top-[7.5px] whitespace-nowrap" data-node-id="270:889">
+                    <p className="leading-[14.4px]">contact@golafly.com</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[14.4px] relative shrink-0 w-full" data-node-id="270:890" data-name="SPAN.lp-foot__contact-link">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#6c7668] text-[11px] top-[7.5px] whitespace-nowrap" data-node-id="270:891">
+                    <p className="leading-[14.4px]">+1 123 466 7899</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="absolute bottom-[-0.4px] content-stretch flex gap-[8px] h-[34px] items-start left-0 right-0" data-node-id="270:892" data-name="DIV.lp-social">
+              <div className="h-full relative rounded-[8px] shrink-0 w-[34px]" data-node-id="270:893" data-name="A.lp-social__icon - Instagram">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                  <div className="relative shrink-0 size-[16px]" data-node-id="270:894" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-0 size-[16px] top-0" data-node-id="270:895" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame20} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-full relative rounded-[8px] shrink-0 w-[34px]" data-node-id="270:899" data-name="A.lp-social__icon - LinkedIn">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                  <div className="relative shrink-0 size-[16px]" data-node-id="270:900" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-0 size-[16px] top-0" data-node-id="270:901" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame21} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-full relative rounded-[8px] shrink-0 w-[34px]" data-node-id="270:903" data-name="A.lp-social__icon - X (Twitter)">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                  <div className="relative shrink-0 size-[15px]" data-node-id="270:904" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-0 size-[15px] top-0" data-node-id="270:905" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame22} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-full relative rounded-[8px] shrink-0 w-[34px]" data-node-id="270:907" data-name="A.lp-social__icon - WhatsApp">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                  <div className="relative shrink-0 size-[16px]" data-node-id="270:908" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-0 size-[16px] top-0" data-node-id="270:909" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame23} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-full relative rounded-[8px] shrink-0 w-[34px]" data-node-id="270:911" data-name="A.lp-social__icon - TikTok">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                  <div className="h-[16px] relative shrink-0 w-[15px]" data-node-id="270:912" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute h-[16px] left-0 top-0 w-[15px]" data-node-id="270:913" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame24} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute bottom-0 left-[330px] top-0 w-[167.637px]" data-node-id="270:915" data-name="DIV.lp-foot__col">
+            <div className="absolute h-[14.4px] left-0 right-0 top-0" data-node-id="270:916" data-name="DIV.lp-label">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#a6b0a3] text-[11px] top-[7.5px] whitespace-nowrap" data-node-id="270:917">
+                <p className="leading-[14.4px]">Program</p>
+              </div>
+            </div>
+            <div className="absolute bottom-[206px] content-stretch flex flex-col gap-[8px] h-[73.6px] items-start left-0 right-0" data-node-id="270:918" data-name="UL">
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:919" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:920">
+                    <p className="leading-[16px]">Football Tourism</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:921" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:922">
+                    <p className="leading-[16px]">Sports Marketing</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:923" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:924">
+                    <p className="leading-[16px]">Player Management</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute bottom-0 left-[525px] top-0 w-[167.65px]" data-node-id="270:925" data-name="DIV.lp-foot__col">
+            <div className="absolute h-[14.4px] left-0 right-0 top-0" data-node-id="270:926" data-name="DIV.lp-label">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#a6b0a3] text-[11px] top-[7.5px] whitespace-nowrap" data-node-id="270:927">
+                <p className="leading-[14.4px]">Tourism</p>
+              </div>
+            </div>
+            <div className="absolute bottom-[206px] content-stretch flex flex-col gap-[8px] h-[73.6px] items-start left-0 right-0" data-node-id="270:928" data-name="UL">
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:929" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:930">
+                    <p className="leading-[16px]">{`Trials & Showcase`}</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:931" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:932">
+                    <p className="leading-[16px]">Match-day Experience</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:933" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:934">
+                    <p className="leading-[16px]">Iconic Football Venues</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute bottom-0 left-[721px] top-0 w-[167.65px]" data-node-id="270:935" data-name="DIV.lp-foot__col">
+            <div className="absolute h-[14.4px] left-0 right-0 top-0" data-node-id="270:936" data-name="DIV.lp-label">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#a6b0a3] text-[11px] top-[7.5px] whitespace-nowrap" data-node-id="270:937">
+                <p className="leading-[14.4px]">Company</p>
+              </div>
+            </div>
+            <div className="absolute bottom-[178.8px] content-stretch flex flex-col gap-[8px] h-[100.8px] items-start left-0 right-0" data-node-id="270:938" data-name="UL">
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:939" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:940">
+                    <p className="leading-[16px]">About Us</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:941" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:942">
+                    <p className="leading-[16px]">Blog</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:943" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:944">
+                    <p className="leading-[16px]">FAQ</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:945" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:946">
+                    <p className="leading-[16px]">Careers</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute bottom-0 left-[917px] top-0 w-[167.65px]" data-node-id="270:947" data-name="DIV.lp-foot__col">
+            <div className="absolute h-[14.4px] left-0 right-0 top-0" data-node-id="270:948" data-name="DIV.lp-label">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#a6b0a3] text-[11px] top-[7.5px] whitespace-nowrap" data-node-id="270:949">
+                <p className="leading-[14.4px]">Legal</p>
+              </div>
+            </div>
+            <div className="absolute bottom-[206px] content-stretch flex flex-col gap-[8px] h-[73.6px] items-start left-0 right-0" data-node-id="270:950" data-name="UL">
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:951" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:952">
+                    <p className="leading-[16px]">{`Terms & Conditions`}</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:953" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:954">
+                    <p className="leading-[16px]">Privacy Policy</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:955" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:956">
+                    <p className="leading-[16px]">Refund Policy</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute bottom-0 left-[1112px] top-0 w-[167.637px]" data-node-id="270:957" data-name="DIV.lp-foot__col">
+            <div className="absolute h-[14.4px] left-0 right-0 top-0" data-node-id="270:958" data-name="DIV.lp-label">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#a6b0a3] text-[11px] top-[7.5px] whitespace-nowrap" data-node-id="270:959">
+                <p className="leading-[14.4px]">Offices</p>
+              </div>
+            </div>
+            <div className="[word-break:break-word] absolute bottom-[216.4px] h-[61.2px] leading-[0] left-0 not-italic right-0 text-[12px] whitespace-nowrap" data-node-id="270:960" data-name="P.lp-small">
+              <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Bold'] font-bold justify-center left-0 text-[#f5f7f3] top-[9px]" data-node-id="270:961">
+                <p className="leading-[15.2px]">London</p>
+              </div>
+              <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Regular'] font-normal justify-center left-0 text-[#a6b0a3] top-[30px]" data-node-id="270:962">
+                <p className="leading-[15.2px]">128 City Road · EC1V 2NX</p>
+              </div>
+              <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Regular'] font-normal justify-center left-0 text-[#a6b0a3] top-[50px]" data-node-id="270:963">
+                <p className="leading-[15.2px]">United Kingdom</p>
+              </div>
+            </div>
+            <div className="[word-break:break-word] absolute bottom-[142.4px] h-[61.2px] leading-[0] left-0 not-italic right-0 text-[12px] whitespace-nowrap" data-node-id="270:964" data-name="P.lp-small">
+              <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Bold'] font-bold justify-center left-0 text-[#f5f7f3] top-[9px]" data-node-id="270:965">
+                <p className="leading-[15.2px]">Barcelona</p>
+              </div>
+              <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Regular'] font-normal justify-center left-0 text-[#a6b0a3] top-[30px]" data-node-id="270:966">
+                <p className="leading-[15.2px]">C/ Cal Ciso 69 · 08038</p>
+              </div>
+              <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Regular'] font-normal justify-center left-0 text-[#a6b0a3] top-[50px]" data-node-id="270:967">
+                <p className="leading-[15.2px]">Spain</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="-translate-x-1/2 absolute bottom-[32.22px] content-stretch flex h-[38.4px] items-start justify-between left-[calc(50%-0.4px)] pt-[24px] w-[1280px]" data-node-id="270:968" data-name="DIV.lp-foot__base">
+          <div className="h-[13.6px] opacity-70 relative shrink-0 w-[421.8px]" data-node-id="270:969" data-name="SPAN.lp-foot__base-r">
+            <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#6c7668] text-[10px] top-[6px] whitespace-nowrap" data-node-id="270:970">
+                <p className="leading-[13.6px]">FIFA Licensed · Ethical Representation · Transparent Fees</p>
+              </div>
+            </div>
+          </div>
+          <div className="[word-break:break-word] flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[#6c7668] text-[10px] whitespace-nowrap" data-node-id="270:971">
+            <p className="leading-[13.6px]">© 2026 Golafly Ltd. All rights reserved.</p>
+          </div>
+        </div>
+        <div className="absolute inset-0 pointer-events-none rounded-[inherit] shadow-[inset_0px_1px_60px_0px_rgba(183,255,0,0.04)]" />
+      </div>
+      <div className="absolute backdrop-blur-[9px] bg-[rgba(10,13,10,0.82)] h-[64px] left-0 right-0 shadow-[0px_2px_32px_0px_rgba(0,0,0,0.4)] top-0" data-node-id="270:972" data-name="NAV.tvnav - Travel navigation">
+        <div className="-translate-x-1/2 absolute content-stretch flex gap-[32px] h-[63.2px] items-center left-[calc(50%-0.4px)] px-[60px] top-0 w-[1280px]" data-node-id="270:973" data-name="DIV.tvnav__inner">
+          <div className="relative shrink-0 size-[32px]" data-node-id="270:974" data-name="A.tvnav__logo - Golafly Travel home">
+            <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center relative size-full">
+              <div className="flex-[1_0_0] h-full min-w-px relative" data-node-id="270:975" data-name="IMG" />
+            </div>
+          </div>
+          <div className="h-[30.4px] relative shrink-0 w-[852.875px]" data-node-id="270:976" data-name="List.tvnav__links">
+            <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[4px] items-center relative size-full">
+              <div className="h-full relative rounded-[8px] shrink-0 w-[57.45px]" data-node-id="270:977" data-name="Listitem.tvnav__link">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Medium'] font-medium justify-center leading-[0] left-[12px] text-[#a6b0a3] text-[11px] top-[15.5px] whitespace-nowrap" data-node-id="270:978">
+                    <p className="leading-[14.4px]">Home</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-full relative rounded-[8px] shrink-0 w-[82.525px]" data-node-id="270:979" data-name="Listitem.tvnav__link">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Medium'] font-medium justify-center leading-[0] left-[12px] text-[#a6b0a3] text-[11px] top-[15.5px] whitespace-nowrap" data-node-id="270:980">
+                    <p className="leading-[14.4px]">Flights</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-full relative rounded-[8px] shrink-0 w-[65.8px]" data-node-id="270:981" data-name="Listitem.tvnav__link">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Medium'] font-medium justify-center leading-[0] left-[12px] text-[#a6b0a3] text-[11px] top-[15.5px] whitespace-nowrap" data-node-id="270:982">
+                    <p className="leading-[14.4px]">Stays</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-full relative rounded-[8px] shrink-0 w-[57.45px]" data-node-id="270:983" data-name="Listitem.tvnav__link">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Medium'] font-medium justify-center leading-[0] left-[12px] text-[#a6b0a3] text-[11px] top-[15.5px] whitespace-nowrap" data-node-id="270:984">
+                    <p className="leading-[14.4px]">eSIM</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-full relative rounded-[8px] shrink-0 w-[74.162px]" data-node-id="270:985" data-name="Listitem.tvnav__link">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Medium'] font-medium justify-center leading-[0] left-[12px] text-[#a6b0a3] text-[11px] top-[15.5px] whitespace-nowrap" data-node-id="270:986">
+                    <p className="leading-[14.4px]">Offers</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-full relative rounded-[8px] shrink-0 w-[57.45px]" data-node-id="270:987" data-name="Listitem.tvnav__link">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="absolute bg-[#b7ff00] h-[2px] left-[28px] rounded-[2px] shadow-[0px_0px_8px_0px_#b7ff00] top-[30px] w-[18px]" data-node-id="270:988" data-name="Listitem.tvnav__link::after" />
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Medium'] font-medium justify-center leading-[0] left-[12px] text-[#b7ff00] text-[11px] top-[15.5px] whitespace-nowrap" data-node-id="270:989">
+                    <p className="leading-[14.4px]">Help</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="h-[36px] relative shrink-0 w-[211.125px]" data-node-id="270:990" data-name="DIV.tvnav__right">
+            <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[8px] items-center relative size-full">
+              <div className="relative shrink-0 size-[34px]" data-node-id="270:991" data-name="DIV.tvnav__theme">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center relative size-full">
+                  <div className="flex-[1_0_0] h-full min-w-px relative rounded-[999px]" data-node-id="270:992" data-name="BUTTON.gf-theme-toggle - Switch to light mode">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-px size-[32.4px] top-px" data-node-id="270:993" data-name="SPAN.gf-theme-toggle__icon">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                          <div className="relative shrink-0 size-[16px]" data-node-id="270:994" data-name="SVG">
+                            <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                              <div className="absolute left-0 size-[16px] top-0" data-node-id="270:995" data-name="Frame">
+                                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame25} />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-full relative rounded-[18px] shrink-0 w-[36px]" data-node-id="270:1005" data-name="A.tvnav__login - Log in">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                  <div className="relative shrink-0 size-[16px]" data-node-id="270:1006" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-0 size-[16px] top-0" data-node-id="270:1007" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame26} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-[#b7ff00] h-[32.4px] relative rounded-[999px] shadow-[0px_0px_12px_0px_rgba(183,255,0,0.35),0px_0px_0px_1px_rgba(183,255,0,0.4)] shrink-0 w-[125.125px]" data-node-id="270:1010" data-name="A.lp-btn">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center overflow-clip px-[20px] py-[9px] relative rounded-[inherit] size-full">
+                  <div className="[word-break:break-word] flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] relative shrink-0 text-[11px] text-black whitespace-nowrap" data-node-id="270:1011">
+                    <p className="leading-[14.4px]">Get Started</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}

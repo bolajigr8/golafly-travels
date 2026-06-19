@@ -1,0 +1,1283 @@
+import { imgFrame, imgFrame1, imgFrame2, imgFrame3, imgFrame4, imgFrame5, imgFrame6, imgFrame7, imgFrame8, imgFrame9, imgFrame10, imgFrame11, imgFrame12 } from "./svg-wgbe5";
+const imgImgTvdealImg = "C:\Users\Administrator\Desktop\travels\public\figma-assets/52ad3a5556b7163c2353c30bf9cd56d938480670.png";
+const imgImgTvdealImg1 = "C:\Users\Administrator\Desktop\travels\public\figma-assets/1a5249ca27eead0da1fc0881b7ecae0b2c75338a.png";
+const imgImgTvdealImg2 = "C:\Users\Administrator\Desktop\travels\public\figma-assets/e35680b887266745c53c63511ea9a447a407ad98.png";
+const imgImgTvdealImg3 = "C:\Users\Administrator\Desktop\travels\public\figma-assets/15c953d462fcd62b95f38b720fd16fa1da5a2515.png";
+const imgImgTvtrendCardImg = "C:\Users\Administrator\Desktop\travels\public\figma-assets/2df3b1b014ebe65dd2deb23bba6d7adabf68b0f1.png";
+const imgImgTvtrendCardImg1 = "C:\Users\Administrator\Desktop\travels\public\figma-assets/0ea1b376b2cae03b5838a06ad4506ace1c1bc28e.png";
+const imgImgTvtrendCardImg2 = "C:\Users\Administrator\Desktop\travels\public\figma-assets/a837be17dd8bf84ef291358ad1edeee44cf92fe3.png";
+const imgImgTvtrendCardImg3 = "C:\Users\Administrator\Desktop\travels\public\figma-assets/1ab2d5bd7b3edcb60f297653e10926079b48ffdc.png";
+
+export default function OffersGolaflyTravel() {
+  return (
+    <div className="bg-black relative size-full" data-node-id="270:2" data-name="Offers | GOLAFLY Travel">
+      <div className="absolute h-[1689.55px] left-0 right-0 top-[64px]" data-node-id="270:4" data-name="DIV.tvpage-wrap">
+        <div className="absolute bg-[#050606] h-[309.2px] left-0 overflow-clip right-0 top-0" data-node-id="270:5" data-name="DIV.tvoffers-header">
+          <div className="absolute h-[308px] left-0 top-0 w-[1520px]" data-node-id="270:6" style={{ backgroundImage: "url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 1520 308' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='1'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(107.48 0 0 21.779 760 154)'><stop stop-color='rgba(183,255,0,0.1)' offset='0'/><stop stop-color='rgba(183,255,0,0)' offset='0.65'/></radialGradient></defs></svg>\")" }} data-name="DIV.tvoffers-header::before" />
+          <div className="-translate-x-1/2 absolute h-[248.4px] left-[calc(50%-0.4px)] top-[60px] w-[1280px]" data-node-id="270:7" data-name="DIV.tr-container">
+            <div className="absolute content-center flex flex-wrap gap-y-[24px] h-[206.4px] items-center justify-between left-[60px] pb-[20px] pt-[80px] right-[60px] top-0" data-node-id="270:8" data-name="DIV.tvoffers-header__top">
+              <div className="h-[106.4px] relative shrink-0 w-[391.625px]" data-node-id="270:9" data-name="DIV.tvoffers-header__left">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="absolute content-stretch flex gap-[12px] h-[40px] items-center left-0 right-0 top-0" data-node-id="270:10" data-name="DIV.tr-eyebrow">
+                    <div className="bg-[rgba(183,255,0,0.08)] h-full relative rounded-[12px] shrink-0 w-[40px]" data-node-id="270:11" data-name="SPAN.tvoffers-header__icon">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                        <div className="[word-break:break-word] flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] relative shrink-0 text-[#b7ff00] text-[18px] whitespace-nowrap" data-node-id="270:12">
+                          <p className="leading-[23.2px]">%</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="[word-break:break-word] flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] relative shrink-0 text-[#b7ff00] text-[22px] whitespace-nowrap" data-node-id="270:13">
+                      <p className="leading-[28px]">Offers</p>
+                    </div>
+                  </div>
+                  <div className="absolute h-[18.4px] left-0 right-0 top-[56px]" data-node-id="270:14" data-name="P.tvoffers-header__sub">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[15px] top-[9.5px] whitespace-nowrap" data-node-id="270:15">
+                      <p className="leading-[18.4px]">Exclusive deals and limited-time offers, only on Golafly.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[28.8px] relative shrink-0 w-[568.788px]" data-node-id="270:16" data-name="DIV.tvoffers-header__trust">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-wrap gap-[24px] items-center relative size-full">
+                  <div className="h-full relative shrink-0 w-[169.075px]" data-node-id="270:17" data-name="DIV.tvoffers-trust-item">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[8px] items-center relative size-full">
+                      <div className="h-[22px] relative shrink-0 w-[18px]" data-node-id="270:18" data-name="SPAN.tvoffers-trust-item__icon">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                          <div className="absolute h-[18px] left-0 overflow-clip right-0 top-0" data-node-id="270:19" data-name="SVG">
+                            <div className="absolute left-0 size-[18px] top-0" data-node-id="270:20" data-name="Frame">
+                              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame} />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="h-full relative shrink-0 w-[143.075px]" data-node-id="270:22" data-name="DIV">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                          <div className="absolute h-[16px] left-0 right-0 top-0" data-node-id="270:23" data-name="DIV.tvoffers-trust-item__label">
+                            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-0 not-italic text-[#f5f7f3] text-[13px] top-[8px] whitespace-nowrap" data-node-id="270:24">
+                              <p className="leading-[16px]">Best Price Guarantee</p>
+                            </div>
+                          </div>
+                          <div className="absolute h-[12.8px] left-0 right-0 top-[16px]" data-node-id="270:25" data-name="DIV.tvoffers-trust-item__desc">
+                            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[11px] top-[6.5px] whitespace-nowrap" data-node-id="270:26">
+                              <p className="leading-[12.8px]">We match or beat any price</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="h-full relative shrink-0 w-[181.25px]" data-node-id="270:27" data-name="DIV.tvoffers-trust-item">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[8px] items-center relative size-full">
+                      <div className="h-[22px] relative shrink-0 w-[18px]" data-node-id="270:28" data-name="SPAN.tvoffers-trust-item__icon">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                          <div className="absolute h-[18px] left-0 overflow-clip right-0 top-0" data-node-id="270:29" data-name="SVG">
+                            <div className="absolute left-0 size-[18px] top-0" data-node-id="270:30" data-name="Frame">
+                              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame1} />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="h-full relative shrink-0 w-[155.25px]" data-node-id="270:32" data-name="DIV">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                          <div className="absolute h-[16px] left-0 right-0 top-0" data-node-id="270:33" data-name="DIV.tvoffers-trust-item__label">
+                            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-0 not-italic text-[#f5f7f3] text-[13px] top-[8px] whitespace-nowrap" data-node-id="270:34">
+                              <p className="leading-[16px]">No Hidden Fees</p>
+                            </div>
+                          </div>
+                          <div className="absolute h-[12.8px] left-0 right-0 top-[16px]" data-node-id="270:35" data-name="DIV.tvoffers-trust-item__desc">
+                            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[11px] top-[6.5px] whitespace-nowrap" data-node-id="270:36">
+                              <p className="leading-[12.8px]">What you see is what you pay</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="h-full relative shrink-0 w-[170.463px]" data-node-id="270:37" data-name="DIV.tvoffers-trust-item">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[8px] items-center relative size-full">
+                      <div className="h-[22px] relative shrink-0 w-[18px]" data-node-id="270:38" data-name="SPAN.tvoffers-trust-item__icon">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                          <div className="absolute h-[18px] left-0 overflow-clip right-0 top-0" data-node-id="270:39" data-name="SVG">
+                            <div className="absolute left-0 size-[18px] top-0" data-node-id="270:40" data-name="Frame">
+                              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame2} />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="h-full relative shrink-0 w-[144.463px]" data-node-id="270:42" data-name="DIV">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                          <div className="absolute h-[16px] left-0 right-0 top-0" data-node-id="270:43" data-name="DIV.tvoffers-trust-item__label">
+                            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-0 not-italic text-[#f5f7f3] text-[13px] top-[8px] whitespace-nowrap" data-node-id="270:44">
+                              <p className="leading-[16px]">Instant Confirmation</p>
+                            </div>
+                          </div>
+                          <div className="absolute h-[12.8px] left-0 right-0 top-[16px]" data-node-id="270:45" data-name="DIV.tvoffers-trust-item__desc">
+                            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[11px] top-[6.5px] whitespace-nowrap" data-node-id="270:46">
+                              <p className="leading-[12.8px]">Book now, travel worry-free</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="absolute content-stretch flex gap-[6px] h-[42px] items-start left-[60px] overflow-clip pb-[2px] right-[60px] top-[206px]" data-node-id="270:47" data-name="DIV.tvoffers-tabs">
+              <div className="bg-[rgba(183,255,0,0.04)] border-[#b7ff00] border-b border-solid h-[40px] relative rounded-tl-[8px] rounded-tr-[8px] shrink-0 w-[121.4px]" data-node-id="270:48" data-name="BUTTON.tvoffers-tab">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[60px] text-[#b7ff00] text-[11px] text-center top-[19.5px] whitespace-nowrap" data-node-id="270:49">
+                    <p className="leading-[14.4px]">All Offers</p>
+                  </div>
+                </div>
+              </div>
+              <div className="border-[rgba(0,0,0,0)] border-b border-solid h-[40px] relative rounded-tl-[8px] rounded-tr-[8px] shrink-0 w-[137.688px]" data-node-id="270:50" data-name="BUTTON.tvoffers-tab">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[68px] text-[#a6b0a3] text-[11px] text-center top-[19.5px] whitespace-nowrap" data-node-id="270:51">
+                    <p className="leading-[14.4px]">Flight Deals</p>
+                  </div>
+                </div>
+              </div>
+              <div className="border-[rgba(0,0,0,0)] border-b border-solid h-[40px] relative rounded-tl-[8px] rounded-tr-[8px] shrink-0 w-[121.4px]" data-node-id="270:52" data-name="BUTTON.tvoffers-tab">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[60px] text-[#a6b0a3] text-[11px] text-center top-[19.5px] whitespace-nowrap" data-node-id="270:53">
+                    <p className="leading-[14.4px]">Stay Deals</p>
+                  </div>
+                </div>
+              </div>
+              <div className="border-[rgba(0,0,0,0)] border-b border-solid h-[40px] relative rounded-tl-[8px] rounded-tr-[8px] shrink-0 w-[121.4px]" data-node-id="270:54" data-name="BUTTON.tvoffers-tab">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[60px] text-[#a6b0a3] text-[11px] text-center top-[19.5px] whitespace-nowrap" data-node-id="270:55">
+                    <p className="leading-[14.4px]">eSIM Deals</p>
+                  </div>
+                </div>
+              </div>
+              <div className="border-[rgba(0,0,0,0)] border-b border-solid h-[40px] relative rounded-tl-[8px] rounded-tr-[8px] shrink-0 w-[137.688px]" data-node-id="270:56" data-name="BUTTON.tvoffers-tab">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[68px] text-[#a6b0a3] text-[11px] text-center top-[19.5px] whitespace-nowrap" data-node-id="270:57">
+                    <p className="leading-[14.4px]">Bundle Deals</p>
+                  </div>
+                </div>
+              </div>
+              <div className="border-[rgba(0,0,0,0)] border-b border-solid h-[40px] relative rounded-tl-[8px] rounded-tr-[8px] shrink-0 w-[162.1px]" data-node-id="270:58" data-name="BUTTON.tvoffers-tab">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[81.5px] text-[#a6b0a3] text-[11px] text-center top-[19.5px] whitespace-nowrap" data-node-id="270:59">
+                    <p className="leading-[14.4px]">Seasonal Offers</p>
+                  </div>
+                </div>
+              </div>
+              <div className="border-[rgba(0,0,0,0)] border-b border-solid h-[40px] relative rounded-tl-[8px] rounded-tr-[8px] shrink-0 w-[129.55px]" data-node-id="270:60" data-name="BUTTON.tvoffers-tab">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[64.5px] text-[#a6b0a3] text-[11px] text-center top-[19.5px] whitespace-nowrap" data-node-id="270:61">
+                    <p className="leading-[14.4px]">Bank Offers</p>
+                  </div>
+                </div>
+              </div>
+              <div className="border-[rgba(0,0,0,0)] border-b border-solid h-[40px] relative rounded-tl-[8px] rounded-tr-[8px] shrink-0 w-[129.55px]" data-node-id="270:62" data-name="BUTTON.tvoffers-tab">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[64.5px] text-[#a6b0a3] text-[11px] text-center top-[19.5px] whitespace-nowrap" data-node-id="270:63">
+                    <p className="leading-[14.4px]">Last Minute</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="-translate-x-1/2 absolute h-[1283.55px] left-[calc(50%-0.4px)] top-[309px] w-[1280px]" data-node-id="270:64" data-name="DIV.tr-container">
+          <div className="absolute h-[752.6px] left-[60px] right-[60px] top-[48px]" data-node-id="270:65" data-name="DIV.tvdeals-grid">
+            <div className="absolute bg-[#0b0d0c] h-[364.3px] left-0 overflow-clip rounded-[28px] top-0 w-[568px]" data-node-id="270:66" data-name="ARTICLE.tvdeal">
+              <div className="absolute h-[200px] left-px overflow-clip top-px w-[566.4px]" data-node-id="270:67" data-name="DIV.tvdeal__img-wrap">
+                <div className="absolute inset-0 overflow-clip" data-node-id="270:68" data-name="IMG.tvdeal__img">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImgTvdealImg} />
+                </div>
+                <div className="absolute bg-gradient-to-b from-[rgba(0,0,0,0.1)] inset-0 to-[rgba(0,0,0,0.5)]" data-node-id="270:70" data-name="DIV.tvdeal__img-overlay" />
+                <div className="absolute backdrop-blur-[5px] bg-[rgba(18,21,19,0.75)] h-[22.8px] left-[12px] rounded-[999px] top-[12px] w-[104.8px]" data-node-id="270:71" data-name="SPAN.tvdeal__badge">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[13px] text-[#f5f7f3] text-[9px] top-[11px] whitespace-nowrap" data-node-id="270:72">
+                    <p className="leading-[11.2px]">FLIGHT DEAL</p>
+                  </div>
+                </div>
+                <div className="absolute backdrop-blur-[5px] bg-[rgba(18,21,19,0.75)] bottom-[12.2px] h-[58.8px] right-[12.31px] rounded-[8px] w-[158.088px]" data-node-id="270:73" data-name="DIV.tvdeal__savings-badge">
+                  <div className="-translate-x-1/2 absolute h-[9px] left-[calc(50%+0.2px)] opacity-70 top-[9px] w-[132.488px]" data-node-id="270:74" data-name="SPAN">
+                    <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Regular'] font-normal justify-center leading-[0] left-[66.5px] text-[#f5f7f3] text-[9px] text-center top-[2.5px] whitespace-nowrap" data-node-id="270:75">
+                      <p className="leading-[9px]">UP TO</p>
+                    </div>
+                  </div>
+                  <div className="-translate-x-1/2 absolute h-[23.2px] left-[calc(50%+0.2px)] top-[18px] w-[132.488px]" data-node-id="270:76" data-name="SPAN.tvdeal__savings-val">
+                    <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] left-[66.5px] text-[#b7ff00] text-[18px] text-center text-shadow-[0px_0px_14px_rgba(183,255,0,0.55),0px_0px_32px_rgba(183,255,0,0.25)] top-[11px] whitespace-nowrap" data-node-id="270:77">
+                      <p className="leading-[23.2px]">UP TO €120 OFF</p>
+                    </div>
+                  </div>
+                  <div className="-translate-x-1/2 absolute h-[9px] left-[calc(50%+0.2px)] opacity-70 top-[41px] w-[132.488px]" data-node-id="270:78" data-name="SPAN">
+                    <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Regular'] font-normal justify-center leading-[0] left-[65px] text-[#f5f7f3] text-[9px] text-center top-[2.5px] whitespace-nowrap" data-node-id="270:79">
+                      <p className="leading-[9px]">OFF</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="absolute content-stretch flex flex-col gap-[8px] h-[162.7px] items-start left-px p-[20px] top-[201px] w-[566.4px]" data-node-id="270:80" data-name="DIV.tvdeal__body">
+                <div className="h-[25.6px] relative shrink-0 w-full" data-node-id="270:81" data-name="H3.tvdeal__title">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] left-0 text-[#f5f7f3] text-[20px] top-[12px] whitespace-nowrap" data-node-id="270:82">
+                      <p className="leading-[25.6px]">Fly More, Pay Less</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="h-[19.5px] relative shrink-0 w-full" data-node-id="270:83" data-name="P.tvdeal__subtitle">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:84">
+                      <p className="leading-[16px]">Save up to €120 on selected international flights.</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="bg-[rgba(183,255,0,0.04)] h-[33.6px] relative rounded-[999px] shrink-0 w-full" data-node-id="270:85" data-name="A.tr-btn">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[8px] items-center px-[18px] py-[9px] relative size-full">
+                    <div className="relative shrink-0 size-[14px]" data-node-id="270:86" data-name="SVG">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                        <div className="absolute left-0 size-[14px] top-0" data-node-id="270:87" data-name="Frame">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame3} />
+                        </div>
+                      </div>
+                    </div>
+                    <div className="[word-break:break-word] flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] relative shrink-0 text-[#b7ff00] text-[10px] whitespace-nowrap" data-node-id="270:89">
+                      <p className="leading-[12.8px]">Explore Flights</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute backdrop-blur-[4px] bg-[rgba(0,0,0,0.6)] bottom-[101.1px] h-[21.6px] right-[-761.4px] rounded-[999px] w-[156.8px]" data-node-id="270:90" data-name="DIV.tvdeal__expires">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[10px] text-[#6c7668] text-[10px] top-[10px] whitespace-nowrap" data-node-id="270:91">
+                      <p className="leading-[13.6px]">Book by 25 Jun 2025</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="absolute bg-[#0b0d0c] h-[364.3px] left-[592px] overflow-clip rounded-[28px] top-0 w-[568px]" data-node-id="270:92" data-name="ARTICLE.tvdeal">
+              <div className="absolute h-[200px] left-px overflow-clip top-px w-[566.4px]" data-node-id="270:93" data-name="DIV.tvdeal__img-wrap">
+                <div className="absolute inset-0 overflow-clip" data-node-id="270:94" data-name="IMG.tvdeal__img">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImgTvdealImg1} />
+                </div>
+                <div className="absolute bg-gradient-to-b from-[rgba(0,0,0,0.1)] inset-0 to-[rgba(0,0,0,0.5)]" data-node-id="270:96" data-name="DIV.tvdeal__img-overlay" />
+                <div className="absolute backdrop-blur-[5px] bg-[rgba(18,21,19,0.75)] h-[22.8px] left-[12px] rounded-[999px] top-[12px] w-[90.4px]" data-node-id="270:97" data-name="SPAN.tvdeal__badge">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[13px] text-[#f5f7f3] text-[9px] top-[11px] whitespace-nowrap" data-node-id="270:98">
+                    <p className="leading-[11.2px]">STAY DEAL</p>
+                  </div>
+                </div>
+                <div className="absolute backdrop-blur-[5px] bg-[rgba(18,21,19,0.75)] bottom-[12.2px] h-[58.8px] right-[11.88px] rounded-[8px] w-[150.525px]" data-node-id="270:99" data-name="DIV.tvdeal__savings-badge">
+                  <div className="-translate-x-1/2 absolute h-[9px] left-[calc(50%+0.2px)] opacity-70 top-[9px] w-[124.925px]" data-node-id="270:100" data-name="SPAN">
+                    <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Regular'] font-normal justify-center leading-[0] left-[62.5px] text-[#f5f7f3] text-[9px] text-center top-[2.5px] whitespace-nowrap" data-node-id="270:101">
+                      <p className="leading-[9px]">UP TO</p>
+                    </div>
+                  </div>
+                  <div className="-translate-x-1/2 absolute h-[23.2px] left-[calc(50%+0.2px)] top-[18px] w-[124.925px]" data-node-id="270:102" data-name="SPAN.tvdeal__savings-val">
+                    <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] left-[62.5px] text-[#b7ff00] text-[18px] text-center text-shadow-[0px_0px_14px_rgba(183,255,0,0.55),0px_0px_32px_rgba(183,255,0,0.25)] top-[11px] whitespace-nowrap" data-node-id="270:103">
+                      <p className="leading-[23.2px]">UP TO 25% OFF</p>
+                    </div>
+                  </div>
+                  <div className="-translate-x-1/2 absolute h-[9px] left-[calc(50%+0.2px)] opacity-70 top-[41px] w-[124.925px]" data-node-id="270:104" data-name="SPAN">
+                    <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Regular'] font-normal justify-center leading-[0] left-[62px] text-[#f5f7f3] text-[9px] text-center top-[2.5px] whitespace-nowrap" data-node-id="270:105">
+                      <p className="leading-[9px]">OFF</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="absolute content-stretch flex flex-col gap-[8px] h-[162.7px] items-start left-px p-[20px] top-[201px] w-[566.4px]" data-node-id="270:106" data-name="DIV.tvdeal__body">
+                <div className="h-[25.6px] relative shrink-0 w-full" data-node-id="270:107" data-name="H3.tvdeal__title">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] left-0 text-[#f5f7f3] text-[20px] top-[12px] whitespace-nowrap" data-node-id="270:108">
+                      <p className="leading-[25.6px]">Stay Longer, Save More</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="h-[19.5px] relative shrink-0 w-full" data-node-id="270:109" data-name="P.tvdeal__subtitle">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:110">
+                      <p className="leading-[16px]">Get up to 25% off on stays worldwide.</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="bg-[rgba(183,255,0,0.04)] h-[33.6px] relative rounded-[999px] shrink-0 w-full" data-node-id="270:111" data-name="A.tr-btn">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[8px] items-center px-[18px] py-[9px] relative size-full">
+                    <div className="relative shrink-0 size-[14px]" data-node-id="270:112" data-name="SVG">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                        <div className="absolute left-0 size-[14px] top-0" data-node-id="270:113" data-name="Frame">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame3} />
+                        </div>
+                      </div>
+                    </div>
+                    <div className="[word-break:break-word] flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] relative shrink-0 text-[#b7ff00] text-[10px] whitespace-nowrap" data-node-id="270:115">
+                      <p className="leading-[12.8px]">Explore Stays</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute backdrop-blur-[4px] bg-[rgba(0,0,0,0.6)] bottom-[101.1px] h-[21.6px] right-[-169.4px] rounded-[999px] w-[156.8px]" data-node-id="270:116" data-name="DIV.tvdeal__expires">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[10px] text-[#6c7668] text-[10px] top-[10px] whitespace-nowrap" data-node-id="270:117">
+                      <p className="leading-[13.6px]">Book by 30 Jun 2025</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="absolute bg-[#0b0d0c] h-[364.3px] left-0 overflow-clip rounded-[28px] top-[388px] w-[568px]" data-node-id="270:118" data-name="ARTICLE.tvdeal">
+              <div className="absolute h-[200px] left-px overflow-clip top-px w-[566.4px]" data-node-id="270:119" data-name="DIV.tvdeal__img-wrap">
+                <div className="absolute inset-0 overflow-clip" data-node-id="270:120" data-name="IMG.tvdeal__img">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImgTvdealImg2} />
+                </div>
+                <div className="absolute bg-gradient-to-b from-[rgba(0,0,0,0.1)] inset-0 to-[rgba(0,0,0,0.5)]" data-node-id="270:122" data-name="DIV.tvdeal__img-overlay" />
+                <div className="absolute backdrop-blur-[5px] bg-[rgba(18,21,19,0.75)] h-[22.8px] left-[12px] rounded-[999px] top-[12px] w-[90.4px]" data-node-id="270:123" data-name="SPAN.tvdeal__badge">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[13px] text-[#f5f7f3] text-[9px] top-[11px] whitespace-nowrap" data-node-id="270:124">
+                    <p className="leading-[11.2px]">ESIM DEAL</p>
+                  </div>
+                </div>
+                <div className="absolute backdrop-blur-[5px] bg-[rgba(18,21,19,0.75)] bottom-[12.2px] h-[58.8px] right-[11.76px] rounded-[8px] w-[151.637px]" data-node-id="270:125" data-name="DIV.tvdeal__savings-badge">
+                  <div className="-translate-x-1/2 absolute h-[9px] left-[calc(50%+0.2px)] opacity-70 top-[9px] w-[126.037px]" data-node-id="270:126" data-name="SPAN">
+                    <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Regular'] font-normal justify-center leading-[0] left-[63.5px] text-[#f5f7f3] text-[9px] text-center top-[2.5px] whitespace-nowrap" data-node-id="270:127">
+                      <p className="leading-[9px]">UP TO</p>
+                    </div>
+                  </div>
+                  <div className="-translate-x-1/2 absolute h-[23.2px] left-[calc(50%+0.2px)] top-[18px] w-[126.037px]" data-node-id="270:128" data-name="SPAN.tvdeal__savings-val">
+                    <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] left-[63.5px] text-[#b7ff00] text-[18px] text-center text-shadow-[0px_0px_14px_rgba(183,255,0,0.55),0px_0px_32px_rgba(183,255,0,0.25)] top-[11px] whitespace-nowrap" data-node-id="270:129">
+                      <p className="leading-[23.2px]">UP TO 30% OFF</p>
+                    </div>
+                  </div>
+                  <div className="-translate-x-1/2 absolute h-[9px] left-[calc(50%+0.2px)] opacity-70 top-[41px] w-[126.037px]" data-node-id="270:130" data-name="SPAN">
+                    <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Regular'] font-normal justify-center leading-[0] left-[62px] text-[#f5f7f3] text-[9px] text-center top-[2.5px] whitespace-nowrap" data-node-id="270:131">
+                      <p className="leading-[9px]">OFF</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="absolute content-stretch flex flex-col gap-[8px] h-[162.7px] items-start left-px p-[20px] top-[201px] w-[566.4px]" data-node-id="270:132" data-name="DIV.tvdeal__body">
+                <div className="h-[25.6px] relative shrink-0 w-full" data-node-id="270:133" data-name="H3.tvdeal__title">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] left-0 text-[#f5f7f3] text-[20px] top-[12px] whitespace-nowrap" data-node-id="270:134">
+                      <p className="leading-[25.6px]">Stay Connected, Anywhere</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="h-[19.5px] relative shrink-0 w-full" data-node-id="270:135" data-name="P.tvdeal__subtitle">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:136">
+                      <p className="leading-[16px]">Up to 30% off on global eSIM plans.</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="bg-[rgba(183,255,0,0.04)] h-[33.6px] relative rounded-[999px] shrink-0 w-full" data-node-id="270:137" data-name="A.tr-btn">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[8px] items-center px-[18px] py-[9px] relative size-full">
+                    <div className="relative shrink-0 size-[14px]" data-node-id="270:138" data-name="SVG">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                        <div className="absolute left-0 size-[14px] top-0" data-node-id="270:139" data-name="Frame">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame3} />
+                        </div>
+                      </div>
+                    </div>
+                    <div className="[word-break:break-word] flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] relative shrink-0 text-[#b7ff00] text-[10px] whitespace-nowrap" data-node-id="270:141">
+                      <p className="leading-[12.8px]">Explore eSIM</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute backdrop-blur-[4px] bg-[rgba(0,0,0,0.6)] bottom-[490.1px] h-[21.6px] right-[-761.4px] rounded-[999px] w-[156.8px]" data-node-id="270:142" data-name="DIV.tvdeal__expires">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[10px] text-[#6c7668] text-[10px] top-[10px] whitespace-nowrap" data-node-id="270:143">
+                      <p className="leading-[13.6px]">Book by 25 Jun 2025</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="absolute bg-[#0b0d0c] h-[364.3px] left-[592px] overflow-clip rounded-[28px] top-[388px] w-[568px]" data-node-id="270:144" data-name="ARTICLE.tvdeal">
+              <div className="absolute h-[200px] left-px overflow-clip top-px w-[566.4px]" data-node-id="270:145" data-name="DIV.tvdeal__img-wrap">
+                <div className="absolute inset-0 overflow-clip" data-node-id="270:146" data-name="IMG.tvdeal__img">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImgTvdealImg3} />
+                </div>
+                <div className="absolute bg-gradient-to-b from-[rgba(0,0,0,0.1)] inset-0 to-[rgba(0,0,0,0.5)]" data-node-id="270:148" data-name="DIV.tvdeal__img-overlay" />
+                <div className="absolute backdrop-blur-[5px] bg-[rgba(18,21,19,0.75)] h-[22.8px] left-[12px] rounded-[999px] top-[12px] w-[104.8px]" data-node-id="270:149" data-name="SPAN.tvdeal__badge">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[13px] text-[#f5f7f3] text-[9px] top-[11px] whitespace-nowrap" data-node-id="270:150">
+                    <p className="leading-[11.2px]">BUNDLE DEAL</p>
+                  </div>
+                </div>
+                <div className="absolute backdrop-blur-[5px] bg-[rgba(18,21,19,0.75)] bottom-[12.2px] h-[58.8px] right-[11.8px] rounded-[8px] w-[124.6px]" data-node-id="270:151" data-name="DIV.tvdeal__savings-badge">
+                  <div className="-translate-x-1/2 absolute h-[9px] left-[calc(50%+0.2px)] opacity-70 top-[9px] w-[99px]" data-node-id="270:152" data-name="SPAN">
+                    <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Regular'] font-normal justify-center leading-[0] left-[49.5px] text-[#f5f7f3] text-[9px] text-center top-[2.5px] whitespace-nowrap" data-node-id="270:153">
+                      <p className="leading-[9px]">UP TO</p>
+                    </div>
+                  </div>
+                  <div className="-translate-x-1/2 absolute h-[23.2px] left-[calc(50%+0.2px)] top-[18px] w-[99px]" data-node-id="270:154" data-name="SPAN.tvdeal__savings-val">
+                    <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] left-[49.5px] text-[#b7ff00] text-[18px] text-center text-shadow-[0px_0px_14px_rgba(183,255,0,0.55),0px_0px_32px_rgba(183,255,0,0.25)] top-[11px] whitespace-nowrap" data-node-id="270:155">
+                      <p className="leading-[23.2px]">FROM €399</p>
+                    </div>
+                  </div>
+                  <div className="-translate-x-1/2 absolute h-[9px] left-[calc(50%+0.2px)] opacity-70 top-[41px] w-[99px]" data-node-id="270:156" data-name="SPAN">
+                    <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Regular'] font-normal justify-center leading-[0] left-[49px] text-[#f5f7f3] text-[9px] text-center top-[2.5px] whitespace-nowrap" data-node-id="270:157">
+                      <p className="leading-[9px]">OFF</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="absolute content-stretch flex flex-col gap-[8px] h-[162.7px] items-start left-px p-[20px] top-[201px] w-[566.4px]" data-node-id="270:158" data-name="DIV.tvdeal__body">
+                <div className="h-[25.6px] relative shrink-0 w-full" data-node-id="270:159" data-name="H3.tvdeal__title">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] left-0 text-[#f5f7f3] text-[20px] top-[12px] whitespace-nowrap" data-node-id="270:160">
+                      <p className="leading-[25.6px]">{`Bundle & Save More`}</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="h-[19.5px] relative shrink-0 w-full" data-node-id="270:161" data-name="P.tvdeal__subtitle">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:162">
+                      <p className="leading-[16px]">Flight + Stay + eSIM starting from €399.</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="bg-[rgba(183,255,0,0.04)] h-[33.6px] relative rounded-[999px] shrink-0 w-full" data-node-id="270:163" data-name="A.tr-btn">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[8px] items-center px-[18px] py-[9px] relative size-full">
+                    <div className="relative shrink-0 size-[14px]" data-node-id="270:164" data-name="SVG">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                        <div className="absolute left-0 size-[14px] top-0" data-node-id="270:165" data-name="Frame">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame3} />
+                        </div>
+                      </div>
+                    </div>
+                    <div className="[word-break:break-word] flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] relative shrink-0 text-[#b7ff00] text-[10px] whitespace-nowrap" data-node-id="270:167">
+                      <p className="leading-[12.8px]">View Bundles</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute backdrop-blur-[4px] bg-[rgba(0,0,0,0.6)] bottom-[490.1px] h-[21.6px] right-[-169.4px] rounded-[999px] w-[156.8px]" data-node-id="270:168" data-name="DIV.tvdeal__expires">
+                  <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-[10px] text-[#6c7668] text-[10px] top-[10px] whitespace-nowrap" data-node-id="270:169">
+                      <p className="leading-[13.6px]">Book by 30 Jun 2025</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute bottom-[79.6px] h-[338.95px] left-[60px] right-[60px]" data-node-id="270:170" data-name="DIV">
+            <div className="absolute content-end flex flex-wrap gap-y-[16px] h-[28.55px] items-end justify-between left-0 right-0 top-0" data-node-id="270:171" data-name="DIV.tr-section-head">
+              <div className="h-full relative shrink-0 w-[273.087px]" data-node-id="270:172" data-name="H2.tr-h2">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] left-0 text-[#f5f7f3] text-[28px] top-[10px] whitespace-nowrap" data-node-id="270:173">
+                    <p className="leading-[28px]">🔥 Trending Offers</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[25.6px] relative rounded-[999px] shrink-0 w-[153.6px]" data-node-id="270:174" data-name="A.tr-view-all">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[6px] items-center px-[12px] py-[5px] relative size-full">
+                  <div className="relative shrink-0 size-[14px]" data-node-id="270:175" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-0 size-[14px] top-0" data-node-id="270:176" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame3} />
+                      </div>
+                    </div>
+                  </div>
+                  <div className="[word-break:break-word] flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[#b7ff00] text-[9px] whitespace-nowrap" data-node-id="270:178">
+                    <p className="leading-[11.2px]">View all offers</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="absolute h-[16px] left-0 right-0 top-[53px]" data-node-id="270:179" data-name="P">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[8px] whitespace-nowrap" data-node-id="270:180">
+                <p className="leading-[16px]">{`Hurry! These deals are popular and won't last long.`}</p>
+              </div>
+            </div>
+            <div className="absolute h-[246.4px] left-0 right-0 top-[93px]" data-node-id="270:181" data-name="DIV.tvtrend-grid">
+              <div className="absolute bg-[#0b0d0c] bottom-0 left-0 overflow-clip rounded-[18px] top-0 w-[219.2px]" data-node-id="270:182" data-name="BUTTON.tvtrend-card">
+                <div className="absolute h-[140px] left-px overflow-clip top-px w-[217.6px]" data-node-id="270:183" data-name="DIV.tvtrend-card__img-wrap">
+                  <div className="absolute bg-gradient-to-b from-[40%] from-[rgba(0,0,0,0)] inset-0 to-[rgba(0,0,0,0.65)]" data-node-id="270:185" data-name="DIV.tvtrend-card__img-overlay" />
+                  <div className="absolute bg-[#ff4e4e] h-[18.4px] left-[10px] rounded-[8px] top-[10px] w-[85.125px]" data-node-id="270:186" data-name="SPAN.tvtrend-card__type">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Bold'] font-bold justify-center leading-[0] left-[10px] text-[8px] text-white top-[9.5px] whitespace-nowrap" data-node-id="270:187">
+                      <p className="leading-[10.4px]">LAST MINUTE</p>
+                    </div>
+                  </div>
+                  <div className="[word-break:break-word] absolute bg-[#b7ff00] bottom-[9.8px] font-['JetBrains_Mono:Bold'] font-bold h-[17.2px] leading-[0] right-[9.8px] rounded-[8px] text-[9px] text-black w-[53.8px] whitespace-nowrap" data-node-id="270:188" data-name="SPAN.tvtrend-card__discount">
+                    <div className="-translate-y-1/2 absolute flex flex-col justify-center left-[8px] top-[8px]" data-node-id="270:189">
+                      <p className="leading-[11.2px]">36</p>
+                    </div>
+                    <div className="-translate-y-1/2 absolute flex flex-col justify-center left-[19px] top-[8px]" data-node-id="270:190">
+                      <p className="leading-[11.2px]">% OFF</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute h-[104.8px] left-px top-[141px] w-[217.6px]" data-node-id="270:191" data-name="DIV.tvtrend-card__body">
+                  <div className="absolute content-stretch flex gap-[8px] h-[30.4px] items-center left-[14px] right-[14px] top-[14px]" data-node-id="270:192" data-name="DIV.tvtrend-card__top-row">
+                    <div className="h-full relative shrink-0 w-[61.612px]" data-node-id="270:193" data-name="DIV">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="absolute h-[17.6px] left-0 right-0 top-0" data-node-id="270:194" data-name="DIV.tvtrend-card__title">
+                          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-0 not-italic text-[#f5f7f3] text-[14px] top-[8px] whitespace-nowrap" data-node-id="270:195">
+                            <p className="leading-[17.6px]">Paris</p>
+                          </div>
+                        </div>
+                        <div className="absolute h-[12.8px] left-0 right-0 top-[18px]" data-node-id="270:196" data-name="DIV.tvtrend-card__sub">
+                          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[11px] top-[6.5px] whitespace-nowrap" data-node-id="270:197">
+                            <p className="leading-[12.8px]">Return from</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="[word-break:break-word] flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] not-italic relative shrink-0 text-[#f5f7f3] text-[20px] whitespace-nowrap" data-node-id="270:198">
+                      <p className="leading-[24px]">🇫🇷</p>
+                    </div>
+                  </div>
+                  <div className="absolute content-stretch flex gap-[6px] h-[20.8px] items-baseline left-[14px] right-[14px] top-[52px]" data-node-id="270:199" data-name="DIV.tvtrend-card__price-row">
+                    <div className="h-full relative shrink-0 w-[37.575px]" data-node-id="270:200" data-name="SPAN.tvtrend-card__price">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Bold'] font-bold h-[20.8px] justify-center leading-[0] left-0 overflow-hidden text-[#f5f7f3] text-[16px] text-ellipsis top-[10.4px] w-[37.575px] whitespace-nowrap" data-node-id="270:201">
+                          <p className="leading-[20.8px] overflow-hidden text-ellipsis">€159</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="[word-break:break-word] flex flex-col font-['Inter:Regular'] font-normal h-[15.2px] justify-center leading-[0] not-italic overflow-hidden relative shrink-0 text-[#6c7668] text-[12px] text-ellipsis w-[30.325px] whitespace-nowrap" data-node-id="270:202">
+                      <p className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[15.2px] line-through overflow-hidden text-ellipsis">€249</p>
+                    </div>
+                  </div>
+                  <div className="absolute h-[13.6px] left-[14px] right-[14px] top-[77px]" data-node-id="270:203" data-name="DIV.tvtrend-card__bookby">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#6c7668] text-[10px] top-[6px] whitespace-nowrap" data-node-id="270:204">
+                      <p className="leading-[13.6px]">Book by 22 Jun 2025</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="absolute bg-[#0b0d0c] bottom-0 left-[235px] overflow-clip rounded-[18px] top-0 w-[219.2px]" data-node-id="270:205" data-name="BUTTON.tvtrend-card">
+                <div className="absolute h-[140px] left-px overflow-clip top-px w-[217.6px]" data-node-id="270:206" data-name="DIV.tvtrend-card__img-wrap">
+                  <div className="absolute inset-0 overflow-clip" data-node-id="270:207" data-name="IMG.tvtrend-card__img">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImgTvtrendCardImg} />
+                  </div>
+                  <div className="absolute bg-gradient-to-b from-[40%] from-[rgba(0,0,0,0)] inset-0 to-[rgba(0,0,0,0.65)]" data-node-id="270:209" data-name="DIV.tvtrend-card__img-overlay" />
+                  <div className="absolute bg-[#7c3aed] h-[18.4px] left-[10px] rounded-[8px] top-[10px] w-[108.8px]" data-node-id="270:210" data-name="SPAN.tvtrend-card__type">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Bold'] font-bold justify-center leading-[0] left-[10px] text-[8px] text-white top-[9.5px] whitespace-nowrap" data-node-id="270:211">
+                      <p className="leading-[10.4px]">WEEKEND GETAWAY</p>
+                    </div>
+                  </div>
+                  <div className="[word-break:break-word] absolute bg-[#b7ff00] bottom-[9.8px] font-['JetBrains_Mono:Bold'] font-bold h-[17.2px] leading-[0] right-[9.8px] rounded-[8px] text-[9px] text-black w-[53.8px] whitespace-nowrap" data-node-id="270:212" data-name="SPAN.tvtrend-card__discount">
+                    <div className="-translate-y-1/2 absolute flex flex-col justify-center left-[8px] top-[8px]" data-node-id="270:213">
+                      <p className="leading-[11.2px]">35</p>
+                    </div>
+                    <div className="-translate-y-1/2 absolute flex flex-col justify-center left-[19px] top-[8px]" data-node-id="270:214">
+                      <p className="leading-[11.2px]">% OFF</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute h-[104.8px] left-px top-[141px] w-[217.6px]" data-node-id="270:215" data-name="DIV.tvtrend-card__body">
+                  <div className="absolute content-stretch flex gap-[8px] h-[30.4px] items-center left-[14px] right-[14px] top-[14px]" data-node-id="270:216" data-name="DIV.tvtrend-card__top-row">
+                    <div className="h-full relative shrink-0 w-[61.612px]" data-node-id="270:217" data-name="DIV">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="absolute h-[17.6px] left-0 right-0 top-0" data-node-id="270:218" data-name="DIV.tvtrend-card__title">
+                          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-0 not-italic text-[#f5f7f3] text-[14px] top-[8px] whitespace-nowrap" data-node-id="270:219">
+                            <p className="leading-[17.6px]">Dubai</p>
+                          </div>
+                        </div>
+                        <div className="absolute h-[12.8px] left-0 right-0 top-[18px]" data-node-id="270:220" data-name="DIV.tvtrend-card__sub">
+                          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[11px] top-[6.5px] whitespace-nowrap" data-node-id="270:221">
+                            <p className="leading-[12.8px]">Return from</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="[word-break:break-word] flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] not-italic relative shrink-0 text-[#f5f7f3] text-[20px] whitespace-nowrap" data-node-id="270:222">
+                      <p className="leading-[24px]">🇦🇪</p>
+                    </div>
+                  </div>
+                  <div className="absolute content-stretch flex gap-[6px] h-[20.8px] items-baseline left-[14px] right-[14px] top-[52px]" data-node-id="270:223" data-name="DIV.tvtrend-card__price-row">
+                    <div className="h-full relative shrink-0 w-[37.575px]" data-node-id="270:224" data-name="SPAN.tvtrend-card__price">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Bold'] font-bold h-[20.8px] justify-center leading-[0] left-0 overflow-hidden text-[#f5f7f3] text-[16px] text-ellipsis top-[10.4px] w-[37.575px] whitespace-nowrap" data-node-id="270:225">
+                          <p className="leading-[20.8px] overflow-hidden text-ellipsis">€189</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="[word-break:break-word] flex flex-col font-['Inter:Regular'] font-normal h-[15.2px] justify-center leading-[0] not-italic overflow-hidden relative shrink-0 text-[#6c7668] text-[12px] text-ellipsis w-[30.188px] whitespace-nowrap" data-node-id="270:226">
+                      <p className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[15.2px] line-through overflow-hidden text-ellipsis">€289</p>
+                    </div>
+                  </div>
+                  <div className="absolute h-[13.6px] left-[14px] right-[14px] top-[77px]" data-node-id="270:227" data-name="DIV.tvtrend-card__bookby">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#6c7668] text-[10px] top-[6px] whitespace-nowrap" data-node-id="270:228">
+                      <p className="leading-[13.6px]">Book by 22 Jun 2025</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="absolute bg-[#0b0d0c] bottom-0 left-[470px] overflow-clip rounded-[18px] top-0 w-[219.2px]" data-node-id="270:229" data-name="BUTTON.tvtrend-card">
+                <div className="absolute h-[140px] left-px overflow-clip top-[13px] w-[217.6px]" data-node-id="270:230" data-name="DIV.tvtrend-card__img-wrap">
+                  <div className="absolute inset-0 overflow-clip" data-node-id="270:231" data-name="IMG.tvtrend-card__img">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImgTvtrendCardImg1} />
+                  </div>
+                  <div className="absolute bg-gradient-to-b from-[40%] from-[rgba(0,0,0,0)] inset-0 to-[rgba(0,0,0,0.65)]" data-node-id="270:233" data-name="DIV.tvtrend-card__img-overlay" />
+                  <div className="absolute bg-[#1877f2] h-[18.4px] left-[10px] rounded-[8px] top-[10px] w-[79.2px]" data-node-id="270:234" data-name="SPAN.tvtrend-card__type">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Bold'] font-bold justify-center leading-[0] left-[10px] text-[8px] text-white top-[9.5px] whitespace-nowrap" data-node-id="270:235">
+                      <p className="leading-[10.4px]">BANK OFFER</p>
+                    </div>
+                  </div>
+                  <div className="[word-break:break-word] absolute bg-[#b7ff00] bottom-[9.8px] font-['JetBrains_Mono:Bold'] font-bold h-[17.2px] leading-[0] right-[9.8px] rounded-[8px] text-[9px] text-black w-[53.8px] whitespace-nowrap" data-node-id="270:236" data-name="SPAN.tvtrend-card__discount">
+                    <div className="-translate-y-1/2 absolute flex flex-col justify-center left-[8px] top-[8px]" data-node-id="270:237">
+                      <p className="leading-[11.2px]">10</p>
+                    </div>
+                    <div className="-translate-y-1/2 absolute flex flex-col justify-center left-[19px] top-[8px]" data-node-id="270:238">
+                      <p className="leading-[11.2px]">% OFF</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute h-[80px] left-px top-[153px] w-[217.6px]" data-node-id="270:239" data-name="DIV.tvtrend-card__body">
+                  <div className="absolute content-stretch flex h-[30.4px] items-center left-[14px] right-[14px] top-[14px]" data-node-id="270:240" data-name="DIV.tvtrend-card__top-row">
+                    <div className="h-full relative shrink-0 w-[131.738px]" data-node-id="270:241" data-name="DIV">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="absolute h-[17.6px] left-0 right-0 top-0" data-node-id="270:242" data-name="DIV.tvtrend-card__title">
+                          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-0 not-italic text-[#f5f7f3] text-[14px] top-[8px] whitespace-nowrap" data-node-id="270:243">
+                            <p className="leading-[17.6px]">Extra 10% Off</p>
+                          </div>
+                        </div>
+                        <div className="absolute h-[12.8px] left-0 right-0 top-[18px]" data-node-id="270:244" data-name="DIV.tvtrend-card__sub">
+                          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[11px] top-[6.5px] whitespace-nowrap" data-node-id="270:245">
+                            <p className="leading-[12.8px]">With selected bank cards</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="absolute h-[13.6px] left-[14px] right-[14px] top-[52px]" data-node-id="270:246" data-name="DIV.tvtrend-card__bookby">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#6c7668] text-[10px] top-[6px] whitespace-nowrap" data-node-id="270:247">
+                      <p className="leading-[13.6px]">Valid till 30 Jun 2025</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="absolute bg-[#0b0d0c] bottom-0 left-[706px] overflow-clip rounded-[18px] top-0 w-[219.2px]" data-node-id="270:248" data-name="BUTTON.tvtrend-card">
+                <div className="absolute h-[140px] left-px overflow-clip top-px w-[217.6px]" data-node-id="270:249" data-name="DIV.tvtrend-card__img-wrap">
+                  <div className="absolute inset-0 overflow-clip" data-node-id="270:250" data-name="IMG.tvtrend-card__img">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImgTvtrendCardImg2} />
+                  </div>
+                  <div className="absolute bg-gradient-to-b from-[40%] from-[rgba(0,0,0,0)] inset-0 to-[rgba(0,0,0,0.65)]" data-node-id="270:252" data-name="DIV.tvtrend-card__img-overlay" />
+                  <div className="absolute bg-[#059669] h-[18.4px] left-[10px] rounded-[8px] top-[10px] w-[79.2px]" data-node-id="270:253" data-name="SPAN.tvtrend-card__type">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Bold'] font-bold justify-center leading-[0] left-[10px] text-[8px] text-white top-[9.5px] whitespace-nowrap" data-node-id="270:254">
+                      <p className="leading-[10.4px]">EARLY BIRD</p>
+                    </div>
+                  </div>
+                  <div className="[word-break:break-word] absolute bg-[#b7ff00] bottom-[9.8px] font-['JetBrains_Mono:Bold'] font-bold h-[17.2px] leading-[0] right-[9.8px] rounded-[8px] text-[9px] text-black w-[53.8px] whitespace-nowrap" data-node-id="270:255" data-name="SPAN.tvtrend-card__discount">
+                    <div className="-translate-y-1/2 absolute flex flex-col justify-center left-[8px] top-[8px]" data-node-id="270:256">
+                      <p className="leading-[11.2px]">35</p>
+                    </div>
+                    <div className="-translate-y-1/2 absolute flex flex-col justify-center left-[19px] top-[8px]" data-node-id="270:257">
+                      <p className="leading-[11.2px]">% OFF</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute h-[104.8px] left-px top-[141px] w-[217.6px]" data-node-id="270:258" data-name="DIV.tvtrend-card__body">
+                  <div className="absolute content-stretch flex gap-[8px] h-[30.4px] items-center left-[14px] right-[14px] top-[14px]" data-node-id="270:259" data-name="DIV.tvtrend-card__top-row">
+                    <div className="h-full relative shrink-0 w-[61.612px]" data-node-id="270:260" data-name="DIV">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="absolute h-[17.6px] left-0 right-0 top-0" data-node-id="270:261" data-name="DIV.tvtrend-card__title">
+                          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-0 not-italic text-[#f5f7f3] text-[14px] top-[8px] whitespace-nowrap" data-node-id="270:262">
+                            <p className="leading-[17.6px]">Athens</p>
+                          </div>
+                        </div>
+                        <div className="absolute h-[12.8px] left-0 right-0 top-[18px]" data-node-id="270:263" data-name="DIV.tvtrend-card__sub">
+                          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[11px] top-[6.5px] whitespace-nowrap" data-node-id="270:264">
+                            <p className="leading-[12.8px]">Return from</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="[word-break:break-word] flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] not-italic relative shrink-0 text-[#f5f7f3] text-[20px] whitespace-nowrap" data-node-id="270:265">
+                      <p className="leading-[24px]">🇬🇷</p>
+                    </div>
+                  </div>
+                  <div className="absolute content-stretch flex gap-[6px] h-[20.8px] items-baseline left-[14px] right-[14px] top-[52px]" data-node-id="270:266" data-name="DIV.tvtrend-card__price-row">
+                    <div className="h-full relative shrink-0 w-[37.413px]" data-node-id="270:267" data-name="SPAN.tvtrend-card__price">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Bold'] font-bold h-[20.8px] justify-center leading-[0] left-0 overflow-hidden text-[#f5f7f3] text-[16px] text-ellipsis top-[10.4px] w-[37.413px] whitespace-nowrap" data-node-id="270:268">
+                          <p className="leading-[20.8px] overflow-hidden text-ellipsis">€129</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="[word-break:break-word] flex flex-col font-['Inter:Regular'] font-normal h-[15.2px] justify-center leading-[0] not-italic overflow-hidden relative shrink-0 text-[#6c7668] text-[12px] text-ellipsis w-[27.775px] whitespace-nowrap" data-node-id="270:269">
+                      <p className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[15.2px] line-through overflow-hidden text-ellipsis">€199</p>
+                    </div>
+                  </div>
+                  <div className="absolute h-[13.6px] left-[14px] right-[14px] top-[77px]" data-node-id="270:270" data-name="DIV.tvtrend-card__bookby">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#6c7668] text-[10px] top-[6px] whitespace-nowrap" data-node-id="270:271">
+                      <p className="leading-[13.6px]">Book by 30 Jun 2025</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="absolute bg-[#0b0d0c] bottom-0 left-[941px] overflow-clip rounded-[18px] top-0 w-[219.2px]" data-node-id="270:272" data-name="BUTTON.tvtrend-card">
+                <div className="absolute h-[140px] left-px overflow-clip top-px w-[217.6px]" data-node-id="270:273" data-name="DIV.tvtrend-card__img-wrap">
+                  <div className="absolute inset-0 overflow-clip" data-node-id="270:274" data-name="IMG.tvtrend-card__img">
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImgTvtrendCardImg3} />
+                  </div>
+                  <div className="absolute bg-gradient-to-b from-[40%] from-[rgba(0,0,0,0)] inset-0 to-[rgba(0,0,0,0.65)]" data-node-id="270:276" data-name="DIV.tvtrend-card__img-overlay" />
+                  <div className="absolute bg-[#b7ff00] h-[18.4px] left-[10px] rounded-[8px] top-[10px] w-[108.8px]" data-node-id="270:277" data-name="SPAN.tvtrend-card__type">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Bold'] font-bold justify-center leading-[0] left-[10px] text-[8px] text-black top-[9.5px] whitespace-nowrap" data-node-id="270:278">
+                      <p className="leading-[10.4px]">eSIM FLASH SALE</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute h-[104.8px] left-px top-[141px] w-[217.6px]" data-node-id="270:279" data-name="DIV.tvtrend-card__body">
+                  <div className="absolute content-stretch flex h-[30.4px] items-center left-[14px] right-[14px] top-[14px]" data-node-id="270:280" data-name="DIV.tvtrend-card__top-row">
+                    <div className="h-full relative shrink-0 w-[98.088px]" data-node-id="270:281" data-name="DIV">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="absolute h-[17.6px] left-0 right-0 top-0" data-node-id="270:282" data-name="DIV.tvtrend-card__title">
+                          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-0 not-italic text-[#f5f7f3] text-[14px] top-[8px] whitespace-nowrap" data-node-id="270:283">
+                            <p className="leading-[17.6px]">Global eSIM</p>
+                          </div>
+                        </div>
+                        <div className="absolute h-[12.8px] left-0 right-0 top-[18px]" data-node-id="270:284" data-name="DIV.tvtrend-card__sub">
+                          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[11px] top-[6.5px] whitespace-nowrap" data-node-id="270:285">
+                            <p className="leading-[12.8px]">Plans starting from</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="absolute content-stretch flex h-[20.8px] items-baseline left-[14px] right-[14px] top-[52px]" data-node-id="270:286" data-name="DIV.tvtrend-card__price-row">
+                    <div className="h-full relative shrink-0 w-[45.225px]" data-node-id="270:287" data-name="SPAN.tvtrend-card__price">
+                      <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Space_Grotesk:Bold'] font-bold h-[20.8px] justify-center leading-[0] left-0 overflow-hidden text-[#f5f7f3] text-[16px] text-ellipsis top-[10.4px] w-[45.225px] whitespace-nowrap" data-node-id="270:288">
+                          <p className="leading-[20.8px] overflow-hidden text-ellipsis">€6.99</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="absolute h-[13.6px] left-[14px] right-[14px] top-[77px]" data-node-id="270:289" data-name="DIV.tvtrend-card__bookby">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#6c7668] text-[10px] top-[6px] whitespace-nowrap" data-node-id="270:290">
+                      <p className="leading-[13.6px]">Valid for 24 hours only</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="absolute bg-[#0b0d0c] h-[96.8px] left-0 right-0 top-[1593px]" data-node-id="270:291" data-name="DIV.tvtrust-bar">
+          <div className="-translate-x-1/2 absolute h-[40px] left-[calc(50%-0.4px)] top-[29px] w-[1280px]" data-node-id="270:292" data-name="DIV.tr-container">
+            <div className="absolute bottom-0 content-stretch flex gap-[14px] items-center left-[60px] top-0 w-[272px]" data-node-id="270:293" data-name="DIV.tvtrust-bar__item">
+              <div className="bg-[rgba(183,255,0,0.08)] h-full relative rounded-[12px] shrink-0 w-[40px]" data-node-id="270:294" data-name="SPAN.tvtrust-bar__icon">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                  <div className="relative shrink-0 size-[18px]" data-node-id="270:295" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-0 size-[18px] top-0" data-node-id="270:296" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[35.6px] relative shrink-0 w-[162.788px]" data-node-id="270:298" data-name="DIV">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="absolute h-[16.8px] left-0 right-0 top-0" data-node-id="270:299" data-name="DIV.tvtrust-bar__title">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-0 not-italic text-[#f5f7f3] text-[13px] top-[8.5px] whitespace-nowrap" data-node-id="270:300">
+                      <p className="leading-[16.8px]">Secure Payments</p>
+                    </div>
+                  </div>
+                  <div className="absolute h-[16.8px] left-0 right-0 top-[19px]" data-node-id="270:301" data-name="DIV.tvtrust-bar__desc">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:302">
+                      <p className="leading-[15.2px]">Your payment is safe with us</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="absolute bottom-0 content-stretch flex gap-[14px] items-center left-[356px] top-0 w-[272px]" data-node-id="270:303" data-name="DIV.tvtrust-bar__item">
+              <div className="bg-[rgba(183,255,0,0.08)] h-full relative rounded-[12px] shrink-0 w-[40px]" data-node-id="270:304" data-name="SPAN.tvtrust-bar__icon">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                  <div className="relative shrink-0 size-[18px]" data-node-id="270:305" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-0 size-[18px] top-0" data-node-id="270:306" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame4} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[35.6px] relative shrink-0 w-[136.25px]" data-node-id="270:309" data-name="DIV">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="absolute h-[16.8px] left-0 right-0 top-0" data-node-id="270:310" data-name="DIV.tvtrust-bar__title">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-0 not-italic text-[#f5f7f3] text-[13px] top-[8.5px] whitespace-nowrap" data-node-id="270:311">
+                      <p className="leading-[16.8px]">Flexible Booking</p>
+                    </div>
+                  </div>
+                  <div className="absolute h-[16.8px] left-0 right-0 top-[19px]" data-node-id="270:312" data-name="DIV.tvtrust-bar__desc">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:313">
+                      <p className="leading-[15.2px]">Change or cancel easily</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="absolute bottom-0 content-stretch flex gap-[14px] items-center left-[652px] top-0 w-[272px]" data-node-id="270:314" data-name="DIV.tvtrust-bar__item">
+              <div className="bg-[rgba(183,255,0,0.08)] h-full relative rounded-[12px] shrink-0 w-[40px]" data-node-id="270:315" data-name="SPAN.tvtrust-bar__icon">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                  <div className="relative shrink-0 size-[18px]" data-node-id="270:316" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-0 size-[18px] top-0" data-node-id="270:317" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame5} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[35.6px] relative shrink-0 w-[152.125px]" data-node-id="270:319" data-name="DIV">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="absolute h-[16.8px] left-0 right-0 top-0" data-node-id="270:320" data-name="DIV.tvtrust-bar__title">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-0 not-italic text-[#f5f7f3] text-[13px] top-[8.5px] whitespace-nowrap" data-node-id="270:321">
+                      <p className="leading-[16.8px]">24/7 Support</p>
+                    </div>
+                  </div>
+                  <div className="absolute h-[16.8px] left-0 right-0 top-[19px]" data-node-id="270:322" data-name="DIV.tvtrust-bar__desc">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:323">
+                      <p className="leading-[15.2px]">{`We're here to help anytime`}</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="absolute bottom-0 content-stretch flex gap-[14px] items-center left-[948px] top-0 w-[272px]" data-node-id="270:324" data-name="DIV.tvtrust-bar__item">
+              <div className="bg-[rgba(183,255,0,0.08)] h-full relative rounded-[12px] shrink-0 w-[40px]" data-node-id="270:325" data-name="SPAN.tvtrust-bar__icon">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                  <div className="relative shrink-0 size-[18px]" data-node-id="270:326" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-0 size-[18px] top-0" data-node-id="270:327" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame1} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[35.6px] relative shrink-0 w-[169.363px]" data-node-id="270:329" data-name="DIV">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="absolute h-[16.8px] left-0 right-0 top-0" data-node-id="270:330" data-name="DIV.tvtrust-bar__title">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Semi_Bold'] font-semibold justify-center leading-[0] left-0 not-italic text-[#f5f7f3] text-[13px] top-[8.5px] whitespace-nowrap" data-node-id="270:331">
+                      <p className="leading-[16.8px]">No Hidden Fees</p>
+                    </div>
+                  </div>
+                  <div className="absolute h-[16.8px] left-0 right-0 top-[19px]" data-node-id="270:332" data-name="DIV.tvtrust-bar__desc">
+                    <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[12px] top-[8px] whitespace-nowrap" data-node-id="270:333">
+                      <p className="leading-[15.2px]">What you see is what you pay</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute h-[756.625px] left-0 overflow-clip right-0 shadow-[0px_-1px_0px_0px_rgba(183,255,0,0.04)] top-[1754px]" data-node-id="270:334" data-name="FOOTER.lp-foot">
+        <div aria-hidden className="absolute bg-black inset-0 pointer-events-none" />
+        <div className="absolute h-[755.825px] left-0 right-0 top-px" data-node-id="270:335" style={{ backgroundImage: "linear-gradient(rgba(183, 255, 0, 0.04) 0%, rgb(0, 0, 0) 30%), url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 1520.8 755.83' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='1'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(172.06 0 0 85.512 1216.6 604.66)'><stop stop-color='rgba(183,255,0,0.08)' offset='0'/><stop stop-color='rgba(183,255,0,0)' offset='0.4'/></radialGradient></defs></svg>\"), url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 1520.8 755.83' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='1'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(172.06 0 0 106.89 304.16 0)'><stop stop-color='rgba(183,255,0,0.18)' offset='0'/><stop stop-color='rgba(183,255,0,0)' offset='0.44'/></radialGradient></defs></svg>\")" }} data-name="DIV.lp-foot__bg" />
+        <div className="absolute h-[755.825px] left-0 right-0 top-px" data-node-id="270:336" style={{ backgroundImage: "linear-gradient(90deg, rgba(183, 255, 0, 0.08) 0%, rgba(183, 255, 0, 0) 0%), linear-gradient(rgba(183, 255, 0, 0.08) 0.13231%, rgba(183, 255, 0, 0) 0.13231%)" }} data-name="DIV.lp-foot__grid" />
+        <div className="-translate-x-1/2 absolute content-end flex flex-wrap gap-y-[40px] h-[189.825px] items-end justify-between left-[calc(50%-0.4px)] pb-[52px] top-[81px] w-[1280px]" data-node-id="270:337" data-name="DIV.lp-foot__connect">
+          <div className="h-[137.025px] relative shrink-0 w-[367.7px]" data-node-id="270:338" data-name="DIV.lp-foot__newsletter-copy">
+            <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+              <div className="absolute content-stretch flex gap-[8px] h-[14.4px] items-center left-0 top-[5px] w-[146.45px]" data-node-id="270:339" data-name="DIV.lp-eyebrow">
+                <div className="bg-[#b7ff00] opacity-75 relative rounded-[2.65px] shadow-[0px_0px_8px_0px_rgba(183,255,0,0.55)] shrink-0 size-[5.293px]" data-node-id="270:340" data-name="SPAN.dot" />
+                <div className="[word-break:break-word] flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[#b7ff00] text-[11px] whitespace-nowrap" data-node-id="270:341">
+                  <p className="leading-[14.4px]">Stay Connected</p>
+                </div>
+              </div>
+              <div className="[word-break:break-word] absolute bottom-[51.8px] font-['Space_Grotesk:Bold'] font-bold h-[58.225px] leading-[0] left-0 right-0 text-[#f5f7f3] text-[26px] whitespace-nowrap" data-node-id="270:342" data-name="H3.lp-h3">
+                <div className="-translate-y-1/2 absolute flex flex-col justify-center left-0 top-[14.5px]" data-node-id="270:343">
+                  <p className="leading-[29px]">Exclusive trial windows,</p>
+                </div>
+                <div className="-translate-y-1/2 absolute flex flex-col justify-center left-0 top-[43.5px]" data-node-id="270:344">
+                  <p className="leading-[29px]">{`offers & football insights.`}</p>
+                </div>
+              </div>
+              <div className="absolute bottom-[-0.37px] h-[43.4px] left-0 w-[300.288px]" data-node-id="270:345" data-name="P.lp-small">
+                <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal h-[43.4px] justify-center leading-[0] left-0 not-italic overflow-hidden text-[#a6b0a3] text-[14px] text-ellipsis top-[21.7px] w-[300.288px]" data-node-id="270:346">
+                  <p className="leading-[16.8px] mb-0">Join 2,400+ players, coaches, and brands</p>
+                  <p className="leading-[16.8px]">receiving our monthly briefing.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="h-[104.1px] relative shrink-0 w-[400px]" data-node-id="270:347" data-name="DIV.lp-foot__newsletter-form">
+            <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex flex-col gap-[10px] items-end relative size-full">
+              <div className="bg-[rgba(18,21,19,0.75)] h-[48px] relative rounded-[999px] shrink-0 w-full" data-node-id="270:348" data-name="FORM.lp-foot__sub">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center pl-[22px] pr-[6px] py-[6px] relative size-full">
+                  <div className="h-[16.8px] relative shrink-0 w-[260.188px]" data-node-id="270:349" data-name="INPUT - Email address">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-[-1023px] not-italic text-[#f5f7f3] text-[14px] top-[-1907px] whitespace-nowrap" data-node-id="270:350">
+                        <p className="leading-[0px]">you@email.com</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="bg-[#b7ff00] h-[34.4px] relative rounded-[999px] shadow-[0px_0px_12px_0px_rgba(183,255,0,0.35),0px_0px_0px_1px_rgba(183,255,0,0.4)] shrink-0 w-[110.213px]" data-node-id="270:351" data-name="BUTTON.lp-btn">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center overflow-clip px-[18px] py-[10px] relative rounded-[inherit] size-full">
+                      <div className="[word-break:break-word] flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] relative shrink-0 text-[11px] text-black text-center whitespace-nowrap" data-node-id="270:352">
+                        <p className="leading-[14.4px]">Subscribe</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[21.7px] relative shrink-0 w-[211.3px]" data-node-id="270:353" data-name="P.lp-small">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#6c7668] text-[14px] top-[10.5px] whitespace-nowrap" data-node-id="270:354">
+                    <p className="leading-[16.8px]">No spam. Unsubscribe anytime.</p>
+                  </div>
+                </div>
+              </div>
+              <div className="[word-break:break-word] flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[#a6b0a3] text-[11px] whitespace-nowrap" data-node-id="270:355">
+                <p className="leading-[14.4px]">Get the Golafly briefing</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="-translate-x-1/2 absolute h-[303.6px] left-[calc(50%-0.4px)] top-[335px] w-[1280px]" data-node-id="270:356" data-name="DIV.lp-foot__main">
+          <div className="absolute bottom-0 left-0 top-0 w-[301.763px]" data-node-id="270:357" data-name="DIV.lp-foot__brand">
+            <div className="absolute left-0 opacity-90 size-[96px] top-0" data-node-id="270:358" data-name="IMG" />
+            <div className="absolute bottom-[104.8px] h-[86.8px] left-0 w-[247.288px]" data-node-id="270:359" data-name="P.lp-small">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal h-[86.8px] justify-center leading-[0] left-0 not-italic overflow-hidden text-[#a6b0a3] text-[14px] text-ellipsis top-[43.4px] w-[247.288px]" data-node-id="270:360">
+                <p className="leading-[16.8px] mb-0">Global football development, tourism,</p>
+                <p className="leading-[16.8px] mb-0">and sports marketing. Connecting</p>
+                <p className="leading-[16.8px] mb-0">talent, brands, and fans to real</p>
+                <p className="leading-[16.8px]">opportunities worldwide.</p>
+              </div>
+            </div>
+            <div className="absolute bottom-[53.8px] content-stretch flex flex-col gap-[6px] h-[34.8px] items-start left-0 right-0" data-node-id="270:361" data-name="DIV.lp-foot__contact">
+              <div className="h-[14.4px] relative shrink-0 w-full" data-node-id="270:362" data-name="A.lp-foot__contact-link">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#6c7668] text-[11px] top-[7.5px] whitespace-nowrap" data-node-id="270:363">
+                    <p className="leading-[14.4px]">contact@golafly.com</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[14.4px] relative shrink-0 w-full" data-node-id="270:364" data-name="SPAN.lp-foot__contact-link">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#6c7668] text-[11px] top-[7.5px] whitespace-nowrap" data-node-id="270:365">
+                    <p className="leading-[14.4px]">+1 123 466 7899</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="absolute bottom-[-0.4px] content-stretch flex gap-[8px] h-[34px] items-start left-0 right-0" data-node-id="270:366" data-name="DIV.lp-social">
+              <div className="h-full relative rounded-[8px] shrink-0 w-[34px]" data-node-id="270:367" data-name="A.lp-social__icon - Instagram">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                  <div className="relative shrink-0 size-[16px]" data-node-id="270:368" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-0 size-[16px] top-0" data-node-id="270:369" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame6} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-full relative rounded-[8px] shrink-0 w-[34px]" data-node-id="270:373" data-name="A.lp-social__icon - LinkedIn">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                  <div className="relative shrink-0 size-[16px]" data-node-id="270:374" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-0 size-[16px] top-0" data-node-id="270:375" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame7} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-full relative rounded-[8px] shrink-0 w-[34px]" data-node-id="270:377" data-name="A.lp-social__icon - X (Twitter)">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                  <div className="relative shrink-0 size-[15px]" data-node-id="270:378" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-0 size-[15px] top-0" data-node-id="270:379" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame8} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-full relative rounded-[8px] shrink-0 w-[34px]" data-node-id="270:381" data-name="A.lp-social__icon - WhatsApp">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                  <div className="relative shrink-0 size-[16px]" data-node-id="270:382" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-0 size-[16px] top-0" data-node-id="270:383" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame9} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-full relative rounded-[8px] shrink-0 w-[34px]" data-node-id="270:385" data-name="A.lp-social__icon - TikTok">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                  <div className="h-[16px] relative shrink-0 w-[15px]" data-node-id="270:386" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute h-[16px] left-0 top-0 w-[15px]" data-node-id="270:387" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame10} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute bottom-0 left-[330px] top-0 w-[167.637px]" data-node-id="270:389" data-name="DIV.lp-foot__col">
+            <div className="absolute h-[14.4px] left-0 right-0 top-0" data-node-id="270:390" data-name="DIV.lp-label">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#a6b0a3] text-[11px] top-[7.5px] whitespace-nowrap" data-node-id="270:391">
+                <p className="leading-[14.4px]">Program</p>
+              </div>
+            </div>
+            <div className="absolute bottom-[206px] content-stretch flex flex-col gap-[8px] h-[73.6px] items-start left-0 right-0" data-node-id="270:392" data-name="UL">
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:393" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:394">
+                    <p className="leading-[16px]">Football Tourism</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:395" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:396">
+                    <p className="leading-[16px]">Sports Marketing</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:397" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:398">
+                    <p className="leading-[16px]">Player Management</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute bottom-0 left-[525px] top-0 w-[167.65px]" data-node-id="270:399" data-name="DIV.lp-foot__col">
+            <div className="absolute h-[14.4px] left-0 right-0 top-0" data-node-id="270:400" data-name="DIV.lp-label">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#a6b0a3] text-[11px] top-[7.5px] whitespace-nowrap" data-node-id="270:401">
+                <p className="leading-[14.4px]">Tourism</p>
+              </div>
+            </div>
+            <div className="absolute bottom-[206px] content-stretch flex flex-col gap-[8px] h-[73.6px] items-start left-0 right-0" data-node-id="270:402" data-name="UL">
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:403" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:404">
+                    <p className="leading-[16px]">{`Trials & Showcase`}</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:405" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:406">
+                    <p className="leading-[16px]">Match-day Experience</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:407" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:408">
+                    <p className="leading-[16px]">Iconic Football Venues</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute bottom-0 left-[721px] top-0 w-[167.65px]" data-node-id="270:409" data-name="DIV.lp-foot__col">
+            <div className="absolute h-[14.4px] left-0 right-0 top-0" data-node-id="270:410" data-name="DIV.lp-label">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#a6b0a3] text-[11px] top-[7.5px] whitespace-nowrap" data-node-id="270:411">
+                <p className="leading-[14.4px]">Company</p>
+              </div>
+            </div>
+            <div className="absolute bottom-[178.8px] content-stretch flex flex-col gap-[8px] h-[100.8px] items-start left-0 right-0" data-node-id="270:412" data-name="UL">
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:413" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:414">
+                    <p className="leading-[16px]">About Us</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:415" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:416">
+                    <p className="leading-[16px]">Blog</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:417" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:418">
+                    <p className="leading-[16px]">FAQ</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:419" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:420">
+                    <p className="leading-[16px]">Careers</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute bottom-0 left-[917px] top-0 w-[167.65px]" data-node-id="270:421" data-name="DIV.lp-foot__col">
+            <div className="absolute h-[14.4px] left-0 right-0 top-0" data-node-id="270:422" data-name="DIV.lp-label">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#a6b0a3] text-[11px] top-[7.5px] whitespace-nowrap" data-node-id="270:423">
+                <p className="leading-[14.4px]">Legal</p>
+              </div>
+            </div>
+            <div className="absolute bottom-[206px] content-stretch flex flex-col gap-[8px] h-[73.6px] items-start left-0 right-0" data-node-id="270:424" data-name="UL">
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:425" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:426">
+                    <p className="leading-[16px]">{`Terms & Conditions`}</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:427" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:428">
+                    <p className="leading-[16px]">Privacy Policy</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-[19.2px] relative shrink-0 w-full" data-node-id="270:429" data-name="LI">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-0 not-italic text-[#a6b0a3] text-[13px] top-[10px] whitespace-nowrap" data-node-id="270:430">
+                    <p className="leading-[16px]">Refund Policy</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute bottom-0 left-[1112px] top-0 w-[167.637px]" data-node-id="270:431" data-name="DIV.lp-foot__col">
+            <div className="absolute h-[14.4px] left-0 right-0 top-0" data-node-id="270:432" data-name="DIV.lp-label">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#a6b0a3] text-[11px] top-[7.5px] whitespace-nowrap" data-node-id="270:433">
+                <p className="leading-[14.4px]">Offices</p>
+              </div>
+            </div>
+            <div className="[word-break:break-word] absolute bottom-[216.4px] h-[61.2px] leading-[0] left-0 not-italic right-0 text-[12px] whitespace-nowrap" data-node-id="270:434" data-name="P.lp-small">
+              <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Bold'] font-bold justify-center left-0 text-[#f5f7f3] top-[9px]" data-node-id="270:435">
+                <p className="leading-[15.2px]">London</p>
+              </div>
+              <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Regular'] font-normal justify-center left-0 text-[#a6b0a3] top-[30px]" data-node-id="270:436">
+                <p className="leading-[15.2px]">128 City Road · EC1V 2NX</p>
+              </div>
+              <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Regular'] font-normal justify-center left-0 text-[#a6b0a3] top-[50px]" data-node-id="270:437">
+                <p className="leading-[15.2px]">United Kingdom</p>
+              </div>
+            </div>
+            <div className="[word-break:break-word] absolute bottom-[142.4px] h-[61.2px] leading-[0] left-0 not-italic right-0 text-[12px] whitespace-nowrap" data-node-id="270:438" data-name="P.lp-small">
+              <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Bold'] font-bold justify-center left-0 text-[#f5f7f3] top-[9px]" data-node-id="270:439">
+                <p className="leading-[15.2px]">Barcelona</p>
+              </div>
+              <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Regular'] font-normal justify-center left-0 text-[#a6b0a3] top-[30px]" data-node-id="270:440">
+                <p className="leading-[15.2px]">C/ Cal Ciso 69 · 08038</p>
+              </div>
+              <div className="-translate-y-1/2 absolute flex flex-col font-['Inter:Regular'] font-normal justify-center left-0 text-[#a6b0a3] top-[50px]" data-node-id="270:441">
+                <p className="leading-[15.2px]">Spain</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="-translate-x-1/2 absolute bottom-[32.22px] content-stretch flex h-[38.4px] items-start justify-between left-[calc(50%-0.4px)] pt-[24px] w-[1280px]" data-node-id="270:442" data-name="DIV.lp-foot__base">
+          <div className="h-[13.6px] opacity-70 relative shrink-0 w-[421.8px]" data-node-id="270:443" data-name="SPAN.lp-foot__base-r">
+            <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] left-0 text-[#6c7668] text-[10px] top-[6px] whitespace-nowrap" data-node-id="270:444">
+                <p className="leading-[13.6px]">FIFA Licensed · Ethical Representation · Transparent Fees</p>
+              </div>
+            </div>
+          </div>
+          <div className="[word-break:break-word] flex flex-col font-['JetBrains_Mono:Regular'] font-normal justify-center leading-[0] relative shrink-0 text-[#6c7668] text-[10px] whitespace-nowrap" data-node-id="270:445">
+            <p className="leading-[13.6px]">© 2026 Golafly Ltd. All rights reserved.</p>
+          </div>
+        </div>
+        <div className="absolute inset-0 pointer-events-none rounded-[inherit] shadow-[inset_0px_1px_60px_0px_rgba(183,255,0,0.04)]" />
+      </div>
+      <div className="absolute backdrop-blur-[9px] bg-[rgba(10,13,10,0.82)] h-[64px] left-0 right-0 shadow-[0px_2px_32px_0px_rgba(0,0,0,0.4)] top-0" data-node-id="270:446" data-name="NAV.tvnav - Travel navigation">
+        <div className="-translate-x-1/2 absolute content-stretch flex gap-[32px] h-[63.2px] items-center left-[calc(50%-0.4px)] px-[60px] top-0 w-[1280px]" data-node-id="270:447" data-name="DIV.tvnav__inner">
+          <div className="relative shrink-0 size-[32px]" data-node-id="270:448" data-name="A.tvnav__logo - Golafly Travel home">
+            <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center relative size-full">
+              <div className="flex-[1_0_0] h-full min-w-px relative" data-node-id="270:449" data-name="IMG" />
+            </div>
+          </div>
+          <div className="h-[30.4px] relative shrink-0 w-[852.875px]" data-node-id="270:450" data-name="List.tvnav__links">
+            <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[4px] items-center relative size-full">
+              <div className="h-full relative rounded-[8px] shrink-0 w-[57.45px]" data-node-id="270:451" data-name="Listitem.tvnav__link">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Medium'] font-medium justify-center leading-[0] left-[12px] text-[#a6b0a3] text-[11px] top-[15.5px] whitespace-nowrap" data-node-id="270:452">
+                    <p className="leading-[14.4px]">Home</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-full relative rounded-[8px] shrink-0 w-[82.525px]" data-node-id="270:453" data-name="Listitem.tvnav__link">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Medium'] font-medium justify-center leading-[0] left-[12px] text-[#a6b0a3] text-[11px] top-[15.5px] whitespace-nowrap" data-node-id="270:454">
+                    <p className="leading-[14.4px]">Flights</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-full relative rounded-[8px] shrink-0 w-[65.8px]" data-node-id="270:455" data-name="Listitem.tvnav__link">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Medium'] font-medium justify-center leading-[0] left-[12px] text-[#a6b0a3] text-[11px] top-[15.5px] whitespace-nowrap" data-node-id="270:456">
+                    <p className="leading-[14.4px]">Stays</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-full relative rounded-[8px] shrink-0 w-[57.45px]" data-node-id="270:457" data-name="Listitem.tvnav__link">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Medium'] font-medium justify-center leading-[0] left-[12px] text-[#a6b0a3] text-[11px] top-[15.5px] whitespace-nowrap" data-node-id="270:458">
+                    <p className="leading-[14.4px]">eSIM</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-full relative rounded-[8px] shrink-0 w-[74.162px]" data-node-id="270:459" data-name="Listitem.tvnav__link">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="absolute bg-[#b7ff00] h-[2px] left-[37px] rounded-[2px] shadow-[0px_0px_8px_0px_#b7ff00] top-[30px] w-[18px]" data-node-id="270:460" data-name="Listitem.tvnav__link::after" />
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Medium'] font-medium justify-center leading-[0] left-[12px] text-[#b7ff00] text-[11px] top-[15.5px] whitespace-nowrap" data-node-id="270:461">
+                    <p className="leading-[14.4px]">Offers</p>
+                  </div>
+                </div>
+              </div>
+              <div className="h-full relative rounded-[8px] shrink-0 w-[57.45px]" data-node-id="270:462" data-name="Listitem.tvnav__link">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
+                  <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['JetBrains_Mono:Medium'] font-medium justify-center leading-[0] left-[12px] text-[#a6b0a3] text-[11px] top-[15.5px] whitespace-nowrap" data-node-id="270:463">
+                    <p className="leading-[14.4px]">Help</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="h-[36px] relative shrink-0 w-[211.125px]" data-node-id="270:464" data-name="DIV.tvnav__right">
+            <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex gap-[8px] items-center relative size-full">
+              <div className="relative shrink-0 size-[34px]" data-node-id="270:465" data-name="DIV.tvnav__theme">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center relative size-full">
+                  <div className="flex-[1_0_0] h-full min-w-px relative rounded-[999px]" data-node-id="270:466" data-name="BUTTON.gf-theme-toggle - Switch to light mode">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-px size-[32.4px] top-px" data-node-id="270:467" data-name="SPAN.gf-theme-toggle__icon">
+                        <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                          <div className="relative shrink-0 size-[16px]" data-node-id="270:468" data-name="SVG">
+                            <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                              <div className="absolute left-0 size-[16px] top-0" data-node-id="270:469" data-name="Frame">
+                                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame11} />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="h-full relative rounded-[18px] shrink-0 w-[36px]" data-node-id="270:479" data-name="A.tvnav__login - Log in">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center justify-center relative size-full">
+                  <div className="relative shrink-0 size-[16px]" data-node-id="270:480" data-name="SVG">
+                    <div className="bg-clip-padding border-0 border-[transparent] border-solid overflow-clip relative rounded-[inherit] size-full">
+                      <div className="absolute left-0 size-[16px] top-0" data-node-id="270:481" data-name="Frame">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame12} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="bg-[#b7ff00] h-[32.4px] relative rounded-[999px] shadow-[0px_0px_12px_0px_rgba(183,255,0,0.35),0px_0px_0px_1px_rgba(183,255,0,0.4)] shrink-0 w-[125.125px]" data-node-id="270:484" data-name="A.lp-btn">
+                <div className="bg-clip-padding border-0 border-[transparent] border-solid content-stretch flex items-center overflow-clip px-[20px] py-[9px] relative rounded-[inherit] size-full">
+                  <div className="[word-break:break-word] flex flex-col font-['Space_Grotesk:Bold'] font-bold justify-center leading-[0] relative shrink-0 text-[11px] text-black whitespace-nowrap" data-node-id="270:485">
+                    <p className="leading-[14.4px]">Get Started</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
